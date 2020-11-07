@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588097551116.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "46371095",
+    "lastKnownWriteTime" : 1588102243,
+    "last_content_update" : 1588102243277,
+    "path" : "~/Documents/osa-jw-birkbeck-course-2020/TASK-birkbeck-lecture-2/scripts/task-1-load-in-data.R",
+    "project_path" : "scripts/task-1-load-in-data.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

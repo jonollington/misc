@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588097551644.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6F4AC2C5",
+    "lastKnownWriteTime" : 1588098229,
+    "last_content_update" : 1588098229455,
+    "path" : "~/Documents/osa-jw-birkbeck-course-2020/TASK-birkbeck-lecture-2/scripts/task-2-filter-data.R",
+    "project_path" : "scripts/task-2-filter-data.R",
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588097553004.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E57D953C",
+    "lastKnownWriteTime" : 1588104354,
+    "last_content_update" : 1588104354280,
+    "path" : "~/Documents/osa-jw-birkbeck-course-2020/TASK-birkbeck-lecture-2/scripts/task-4-plot-scatter-graph.R",
+    "project_path" : "scripts/task-4-plot-scatter-graph.R",
+    "properties" : {
+        "cursorPosition" : "37,43",
+        "scrollLine" : "17"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

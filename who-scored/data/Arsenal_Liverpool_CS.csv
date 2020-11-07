@@ -1,0 +1,1144 @@
+,Event,Minute,Second,Player,Team,Outcome,X,Y,endX,endY,passtype,Recipient,Pass Recipient Name,Player Name
+0,Pass,0,0,4511,26,Successful,50.3,50.0,30.5,46.3,OpenPlay,136451.0,Joseph Gomez,James Milner
+1,Pass,0,2,136451,26,Unsuccessful,30.5,46.3,72.6,89.9,OpenPlay,,,Joseph Gomez
+2,Pass,0,6,125211,13,Unsuccessful,25.0,14.0,27.3,12.1,OpenPlay,,,Héctor Bellerín
+3,Pass,0,6,96182,26,Successful,72.6,89.9,69.7,81.4,OpenPlay,4511.0,James Milner,Roberto Firmino
+4,Pass,0,7,4511,26,Unsuccessful,69.2,81.2,71.8,86.1,OpenPlay,,,James Milner
+5,Pass,0,8,125211,13,Unsuccessful,24.4,12.8,28.2,22.9,OpenPlay,,,Héctor Bellerín
+6,Pass,0,32,27586,13,Successful,10.9,31.0,57.9,92,OpenPlay,44120.0,Pierre-Emerick Aubameyang,David Luiz
+7,Pass,0,37,44120,13,Successful,57.4,93.9,52.5,97.4,OpenPlay,255169.0,Ainsley Maitland-Niles,Pierre-Emerick Aubameyang
+8,Pass,0,39,255169,13,Successful,54.3,96.8,45.7,72.6,OpenPlay,89401.0,Granit Xhaka,Ainsley Maitland-Niles
+9,Pass,0,40,89401,13,Successful,45.7,72.6,43.8,56.1,OpenPlay,125209.0,Mohamed Elneny,Granit Xhaka
+10,Pass,0,43,125209,13,Successful,39.1,58.5,48.2,11.6,OpenPlay,115726.0,Andrew Robertson,Mohamed Elneny
+11,Pass,1,0,115726,26,Successful,38.2,100.0,24.9,81.4,ThrowIn,95408.0,Virgil van Dijk,Andrew Robertson
+12,Pass,1,4,95408,26,Successful,22.8,71.8,34.5,3.8,OpenPlay,386969.0,Neco Williams,Virgil van Dijk
+13,Pass,1,8,386969,26,Unsuccessful,34.7,3.8,59.5,9.7,OpenPlay,,,Neco Williams
+14,Pass,1,10,297403,13,Successful,40.0,90.7,40.3,79.1,OpenPlay,33568.0,Georginio Wijnaldum,Kieran Tierney
+15,Pass,1,17,33568,26,Successful,56.8,32.6,51.1,45.8,OpenPlay,4511.0,James Milner,Georginio Wijnaldum
+16,Pass,1,18,4511,26,Successful,53.3,47.2,52.7,79.8,OpenPlay,115726.0,Andrew Robertson,James Milner
+17,Pass,1,24,115726,26,Successful,56.2,91.1,42.3,70.6,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+18,Pass,1,28,95408,26,Successful,42.7,67.8,74.8,5.4,OpenPlay,386969.0,Neco Williams,Virgil van Dijk
+19,Pass,1,31,386969,26,Unsuccessful,74.8,4.6,90.9,6.6,OpenPlay,,,Neco Williams
+20,Pass,1,34,297403,13,Unsuccessful,7.7,94.2,44.4,90.6,OpenPlay,,,Kieran Tierney
+21,Pass,1,37,136451,26,Successful,58.0,16.5,65.7,20.3,OpenPlay,4511.0,James Milner,Joseph Gomez
+22,Pass,1,39,4511,26,Successful,65.7,20.3,65.6,7.1,OpenPlay,33568.0,Georginio Wijnaldum,James Milner
+23,Pass,1,41,33568,26,Successful,65.5,8.8,71.3,3.7,OpenPlay,386969.0,Neco Williams,Georginio Wijnaldum
+24,Pass,1,43,386969,26,Unsuccessful,71.6,3.7,74.1,10.4,OpenPlay,,,Neco Williams
+25,Pass,1,44,297403,13,Successful,22.2,80.2,33.5,76.9,OpenPlay,367185.0,Bukayo Saka,Kieran Tierney
+26,Pass,1,49,367185,13,Successful,34.0,49.5,30.3,35.3,OpenPlay,125211.0,Héctor Bellerín,Bukayo Saka
+27,Pass,1,51,125211,13,Unsuccessful,29.8,29.9,36.5,34.5,OpenPlay,,,Héctor Bellerín
+28,Pass,1,52,4511,26,Successful,65.0,63.3,56.8,74.2,OpenPlay,115726.0,Andrew Robertson,James Milner
+29,Pass,1,56,115726,26,Successful,57.2,73.8,45.8,61.5,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+30,Pass,1,59,95408,26,Successful,46.4,57.2,45,42.2,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+31,Pass,2,2,136451,26,Successful,45.3,41.2,45.6,86.5,OpenPlay,115726.0,Andrew Robertson,Joseph Gomez
+32,Pass,2,6,115726,26,Successful,44.9,90.3,38.5,68.5,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+33,Pass,2,14,95408,26,Successful,46.5,42.8,57.4,2.3,OpenPlay,386969.0,Neco Williams,Virgil van Dijk
+34,Pass,2,17,386969,26,Successful,56.4,2.9,41.7,16.2,OpenPlay,136451.0,Joseph Gomez,Neco Williams
+35,Pass,2,20,136451,26,Successful,37.5,27.9,32.7,40.6,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+36,Pass,2,22,95408,26,Successful,31.5,54.5,13.5,51.2,OpenPlay,114147.0,Alisson,Virgil van Dijk
+37,Pass,2,26,114147,26,Successful,13.6,50.9,20.3,70.6,OpenPlay,95408.0,Virgil van Dijk,Alisson
+38,Pass,2,30,95408,26,Successful,22.5,70.5,91,81.8,OpenPlay,109915.0,Sadio Mané,Virgil van Dijk
+39,Pass,2,37,109915,26,Successful,89.9,86.1,86,73.2,OpenPlay,115726.0,Andrew Robertson,Sadio Mané
+40,Pass,2,38,115726,26,Unsuccessful,86.5,74.0,90.2,55.7,OpenPlay,,,Andrew Robertson
+41,Pass,2,43,4511,26,Unsuccessful,69.5,85.5,67,100,OpenPlay,,,James Milner
+42,Pass,3,3,125211,13,Successful,28.9,0.0,29.7,7.4,ThrowIn,125209.0,Mohamed Elneny,Héctor Bellerín
+43,Pass,3,4,125209,13,Successful,29.7,7.4,28.3,1.6,OpenPlay,125211.0,Héctor Bellerín,Mohamed Elneny
+44,Pass,3,6,125211,13,Successful,28.4,4.0,23,4.9,OpenPlay,367185.0,Bukayo Saka,Héctor Bellerín
+45,Pass,3,6,367185,13,Successful,26.2,5.6,36.9,5.4,OpenPlay,125209.0,Mohamed Elneny,Bukayo Saka
+46,Pass,3,8,125209,13,Successful,34.9,3.6,32.9,16.1,OpenPlay,125211.0,Héctor Bellerín,Mohamed Elneny
+47,Pass,3,9,125211,13,Successful,32.6,13.9,39.7,14.3,OpenPlay,367185.0,Bukayo Saka,Héctor Bellerín
+48,Pass,3,12,367185,13,Successful,38.3,39.2,32.1,62.4,OpenPlay,297403.0,Kieran Tierney,Bukayo Saka
+49,Pass,3,15,297403,13,Unsuccessful,32.6,65.1,85.8,74.1,OpenPlay,,,Kieran Tierney
+50,Pass,3,21,114147,26,Successful,12.5,34.2,21.4,67.8,OpenPlay,95408.0,Virgil van Dijk,Alisson
+51,Pass,3,23,95408,26,Successful,22.1,68.6,25.1,93.8,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+52,Pass,3,26,115726,26,Successful,26.1,92.7,21.9,63.3,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+53,Pass,3,28,95408,26,Successful,20.9,62.3,5.3,50.3,OpenPlay,114147.0,Alisson,Virgil van Dijk
+54,Pass,3,32,114147,26,Unsuccessful,9.5,42.1,43.8,49.9,OpenPlay,,,Alisson
+55,Pass,3,34,27586,13,Successful,56.5,45.1,45.8,41.8,OpenPlay,288795.0,Rob Holding,David Luiz
+56,Pass,3,37,288795,13,Successful,45.9,54.5,44.2,87.6,OpenPlay,255169.0,Ainsley Maitland-Niles,Rob Holding
+57,Pass,3,40,255169,13,Successful,45.0,88.7,56.2,98.7,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Ainsley Maitland-Niles
+58,Pass,3,43,44120,13,Successful,53.9,97.2,47,75,OpenPlay,89401.0,Granit Xhaka,Pierre-Emerick Aubameyang
+59,Pass,3,45,89401,13,Unsuccessful,47.3,69.8,67.8,10.7,OpenPlay,,,Granit Xhaka
+60,Pass,3,55,115726,26,Unsuccessful,68.1,93.4,86.2,43.3,OpenPlay,,,Andrew Robertson
+61,Pass,4,14,102248,13,Successful,13.8,62.0,58.9,92.9,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Emiliano Martínez
+62,Pass,4,17,44120,13,Successful,58.9,92.9,55.5,83,OpenPlay,345845.0,Eddie Nketiah,Pierre-Emerick Aubameyang
+63,Pass,4,19,345845,13,Successful,55.5,83.0,52.4,91.7,OpenPlay,255169.0,Ainsley Maitland-Niles,Eddie Nketiah
+64,Pass,4,20,255169,13,Unsuccessful,52.8,90.1,56.7,79.3,OpenPlay,,,Ainsley Maitland-Niles
+65,Pass,4,21,297403,13,Successful,39.7,94.6,48.1,91.9,OpenPlay,255169.0,Ainsley Maitland-Niles,Kieran Tierney
+66,Pass,4,22,255169,13,Successful,47.3,91.7,36.2,91.3,OpenPlay,297403.0,Kieran Tierney,Ainsley Maitland-Niles
+67,Pass,4,24,297403,13,Successful,37.5,93.4,26.5,79.3,OpenPlay,27586.0,David Luiz,Kieran Tierney
+68,Pass,4,27,27586,13,Successful,28.2,77.0,33.5,62.9,OpenPlay,125209.0,Mohamed Elneny,David Luiz
+69,Pass,4,31,125209,13,Unsuccessful,35.6,46.4,79.9,40,OpenPlay,,,Mohamed Elneny
+70,Pass,4,37,114147,26,Successful,19.6,61.4,25.1,34.2,OpenPlay,136451.0,Joseph Gomez,Alisson
+71,Pass,4,42,136451,26,Successful,28.0,38.0,26.9,56.6,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+72,Pass,4,44,95408,26,Successful,26.4,58.5,11.7,52.6,OpenPlay,114147.0,Alisson,Virgil van Dijk
+73,Pass,4,45,114147,26,Successful,12.4,53.6,13.5,96,OpenPlay,4511.0,James Milner,Alisson
+74,Pass,4,50,4511,26,Successful,15.3,96.0,4.9,65.4,OpenPlay,114147.0,Alisson,James Milner
+75,Pass,4,58,114147,26,Successful,10.2,53.1,12.3,73.5,OpenPlay,95408.0,Virgil van Dijk,Alisson
+76,Pass,5,1,95408,26,Successful,13.3,73.2,25.6,69.4,OpenPlay,115916.0,Fabinho,Virgil van Dijk
+77,Pass,5,2,115916,26,Successful,25.6,69.4,20.7,92.9,OpenPlay,4511.0,James Milner,Fabinho
+78,Pass,5,4,4511,26,Successful,20.7,92.9,43.9,98.4,OpenPlay,115726.0,Andrew Robertson,James Milner
+79,Pass,5,7,115726,26,Unsuccessful,43.6,98.3,44.6,97.2,OpenPlay,,,Andrew Robertson
+80,Pass,5,8,115916,26,Successful,40.5,83.8,59.1,85.9,OpenPlay,109915.0,Sadio Mané,Fabinho
+81,Pass,5,14,109915,26,Unsuccessful,63.1,67.8,65.5,43.5,OpenPlay,,,Sadio Mané
+82,Pass,5,17,115916,26,Successful,60.2,60.9,47.1,42.2,OpenPlay,136451.0,Joseph Gomez,Fabinho
+83,Pass,5,21,136451,26,Successful,46.6,41.9,42.4,59.1,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+84,Pass,5,23,95408,26,Successful,42.4,59.1,55.9,93.2,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+85,Pass,5,26,115726,26,Successful,57.7,95.1,64,68.7,OpenPlay,96182.0,Roberto Firmino,Andrew Robertson
+86,Pass,5,30,96182,26,Successful,61.2,64.0,71.5,56.3,OpenPlay,102248.0,Emiliano Martínez,Roberto Firmino
+87,Pass,6,50,102248,13,Unsuccessful,8.5,52.7,65.4,71.1,OpenPlay,,,Emiliano Martínez
+88,Pass,6,55,297403,13,Successful,46.4,75.2,53.2,18.7,OpenPlay,125211.0,Héctor Bellerín,Kieran Tierney
+89,Pass,7,1,125211,13,Successful,60.1,9.8,59.3,24.2,OpenPlay,125209.0,Mohamed Elneny,Héctor Bellerín
+90,Pass,7,3,125209,13,Successful,59.3,24.2,53.3,5.3,OpenPlay,125211.0,Héctor Bellerín,Mohamed Elneny
+91,Pass,7,5,125211,13,Successful,51.5,2.5,33.5,10.6,OpenPlay,288795.0,Rob Holding,Héctor Bellerín
+92,Pass,7,7,288795,13,Successful,32.3,16.3,27.1,48.2,OpenPlay,27586.0,David Luiz,Rob Holding
+93,Pass,7,10,27586,13,Successful,30.1,53.2,38.3,96.6,OpenPlay,297403.0,Kieran Tierney,David Luiz
+94,Pass,7,13,297403,13,Unsuccessful,41.3,97.2,85.7,63,OpenPlay,,,Kieran Tierney
+95,Pass,7,19,114147,26,Successful,14.7,41.2,24,81.2,OpenPlay,115726.0,Andrew Robertson,Alisson
+96,Pass,7,25,115726,26,Successful,30.3,93.5,35,71.2,OpenPlay,115916.0,Fabinho,Andrew Robertson
+97,Pass,7,27,115916,26,Successful,35.9,61.4,29.4,32.8,OpenPlay,136451.0,Joseph Gomez,Fabinho
+98,Pass,7,32,136451,26,Successful,29.0,30.7,26.1,46.3,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+99,Pass,7,34,95408,26,Successful,26.1,48.4,28.4,72.4,OpenPlay,4511.0,James Milner,Virgil van Dijk
+100,Pass,7,36,4511,26,Successful,28.7,81.1,36.5,93.6,OpenPlay,115726.0,Andrew Robertson,James Milner
+101,Pass,7,38,115726,26,Successful,37.6,94.8,28.3,86,OpenPlay,4511.0,James Milner,Andrew Robertson
+102,Pass,7,40,4511,26,Successful,27.7,82.9,24.4,54.8,OpenPlay,95408.0,Virgil van Dijk,James Milner
+103,Pass,7,43,95408,26,Successful,21.4,55.1,7.5,44.6,OpenPlay,114147.0,Alisson,Virgil van Dijk
+104,Pass,7,51,114147,26,Unsuccessful,9.7,40.4,46.2,61.2,OpenPlay,,,Alisson
+105,Pass,7,54,27586,13,Unsuccessful,53.6,37.4,62,43.1,OpenPlay,,,David Luiz
+106,Pass,7,59,367185,13,Successful,57.7,21.5,54.1,13.7,OpenPlay,125211.0,Héctor Bellerín,Bukayo Saka
+107,Pass,8,0,125211,13,Successful,54.1,13.7,57.7,29.6,OpenPlay,125209.0,Mohamed Elneny,Héctor Bellerín
+108,Pass,8,1,125209,13,Successful,57.7,29.6,37.5,25.6,OpenPlay,288795.0,Rob Holding,Mohamed Elneny
+109,Pass,8,4,288795,13,Unsuccessful,37.1,28.1,41,33.5,OpenPlay,,,Rob Holding
+110,Pass,8,7,386969,26,Successful,27.5,30.3,29.2,35.8,OpenPlay,255169.0,Ainsley Maitland-Niles,Neco Williams
+111,Pass,8,10,255169,13,Unsuccessful,66.8,60.6,75.9,50.3,OpenPlay,,,Ainsley Maitland-Niles
+112,Pass,8,11,136451,26,Successful,22.6,49.5,7.1,46.6,OpenPlay,114147.0,Alisson,Joseph Gomez
+113,Pass,8,13,114147,26,Successful,7.0,48.1,11.9,79.1,OpenPlay,115726.0,Andrew Robertson,Alisson
+114,Pass,8,17,115726,26,Unsuccessful,13.6,93.9,46.6,65.8,OpenPlay,,,Andrew Robertson
+115,Pass,8,20,27586,13,Successful,52.4,33.4,47.8,43.3,OpenPlay,89401.0,Granit Xhaka,David Luiz
+116,Pass,8,24,89401,13,Successful,44.4,34.9,47.2,10.9,OpenPlay,125211.0,Héctor Bellerín,Granit Xhaka
+117,Pass,8,26,125211,13,Successful,42.8,8.8,25.8,27.1,OpenPlay,288795.0,Rob Holding,Héctor Bellerín
+118,Pass,8,29,288795,13,Successful,23.2,31.9,12.7,56.9,OpenPlay,102248.0,Emiliano Martínez,Rob Holding
+119,Pass,8,33,102248,13,Unsuccessful,11.8,56.9,22.4,0,OpenPlay,,,Emiliano Martínez
+120,Pass,9,5,115726,26,Successful,68.9,100.0,72.9,97.1,ThrowIn,109915.0,Sadio Mané,Andrew Robertson
+121,Pass,9,6,109915,26,Successful,74.1,91.7,69.8,94.8,OpenPlay,115726.0,Andrew Robertson,Sadio Mané
+122,Pass,9,7,115726,26,Unsuccessful,71.7,96.2,71.9,0,OpenPlay,,,Andrew Robertson
+123,Pass,9,28,255169,13,Unsuccessful,28.2,100.0,44.2,87.2,ThrowIn,,,Ainsley Maitland-Niles
+124,Pass,9,32,115916,26,Successful,53.9,30.6,45.1,47,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+125,Pass,9,34,95408,26,Successful,45.1,47.0,51.1,39.5,OpenPlay,115916.0,Fabinho,Virgil van Dijk
+126,Pass,9,38,115916,26,Successful,54.9,44.5,44.5,48.7,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+127,Pass,9,39,95408,26,Successful,44.5,48.7,56.9,5.3,OpenPlay,33568.0,Georginio Wijnaldum,Virgil van Dijk
+128,Pass,9,43,33568,26,Successful,61.3,5.0,68.3,8.9,OpenPlay,108226.0,Mohamed Salah,Georginio Wijnaldum
+129,Pass,9,44,108226,26,Successful,68.3,8.9,61.6,18.2,OpenPlay,33568.0,Georginio Wijnaldum,Mohamed Salah
+130,Pass,9,46,33568,26,Successful,61.6,18.2,50.4,18.6,OpenPlay,136451.0,Joseph Gomez,Georginio Wijnaldum
+131,Pass,9,48,136451,26,Successful,50.4,18.6,46.8,52.8,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+132,Pass,9,50,95408,26,Unsuccessful,46.2,53.2,90.5,61.4,OpenPlay,,,Virgil van Dijk
+133,Pass,9,57,102248,13,Successful,13.8,36.5,12,60,OpenPlay,27586.0,David Luiz,Emiliano Martínez
+134,Pass,10,0,27586,13,Successful,12.9,60.6,22.5,77.6,OpenPlay,89401.0,Granit Xhaka,David Luiz
+135,Pass,10,1,89401,13,Successful,22.5,77.6,17.4,96.2,OpenPlay,297403.0,Kieran Tierney,Granit Xhaka
+136,Pass,10,4,297403,13,Unsuccessful,19.5,97.5,65.1,96.9,OpenPlay,,,Kieran Tierney
+137,Pass,10,7,136451,26,Unsuccessful,33.8,3.8,42.3,4,OpenPlay,,,Joseph Gomez
+138,Pass,10,13,44120,13,Successful,55.2,98.3,53.8,88.7,OpenPlay,89401.0,Granit Xhaka,Pierre-Emerick Aubameyang
+139,Pass,10,14,89401,13,Successful,48.2,89.6,33,78.8,OpenPlay,27586.0,David Luiz,Granit Xhaka
+140,Pass,10,18,27586,13,Unsuccessful,37.2,66.6,73.6,40.6,OpenPlay,,,David Luiz
+141,Pass,10,25,115726,26,Successful,31.6,58.1,40.7,71.7,OpenPlay,109915.0,Sadio Mané,Andrew Robertson
+142,Pass,10,27,109915,26,Successful,41.3,74.0,32.5,70.9,OpenPlay,4511.0,James Milner,Sadio Mané
+143,Pass,10,28,4511,26,Successful,38.7,73.0,41.8,92.6,OpenPlay,109915.0,Sadio Mané,James Milner
+144,Pass,10,31,109915,26,Successful,40.4,83.0,41.7,61.8,OpenPlay,115916.0,Fabinho,Sadio Mané
+145,Pass,10,34,115916,26,Successful,39.2,50.9,47.3,42.5,OpenPlay,33568.0,Georginio Wijnaldum,Fabinho
+146,Pass,10,36,33568,26,Successful,47.3,41.7,38.3,29.7,OpenPlay,136451.0,Joseph Gomez,Georginio Wijnaldum
+147,Pass,10,39,136451,26,Successful,36.5,33.4,33,60.2,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+148,Pass,10,41,95408,26,Successful,33.0,60.2,39.7,91.4,OpenPlay,4511.0,James Milner,Virgil van Dijk
+149,Pass,10,45,4511,26,Unsuccessful,40.8,93.5,87.9,95.6,OpenPlay,,,James Milner
+150,Pass,10,49,288795,13,Successful,9.8,10.7,3,42.5,OpenPlay,102248.0,Emiliano Martínez,Rob Holding
+151,Pass,10,52,102248,13,Successful,3.6,45.2,5.2,60.5,OpenPlay,27586.0,David Luiz,Emiliano Martínez
+152,Pass,10,55,27586,13,Unsuccessful,4.7,71.1,2.9,100,OpenPlay,,,David Luiz
+153,Pass,11,6,386969,26,Successful,91.4,0.0,94.8,16.8,ThrowIn,108226.0,Mohamed Salah,Neco Williams
+154,Pass,11,9,108226,26,Successful,95.2,17.0,89.9,5.8,OpenPlay,386969.0,Neco Williams,Mohamed Salah
+155,Pass,11,12,386969,26,Successful,90.3,6.9,90.9,50.9,OpenPlay,102248.0,Emiliano Martínez,Neco Williams
+156,Pass,11,25,102248,13,Successful,3.6,48.7,3.3,66.6,OpenPlay,27586.0,David Luiz,Emiliano Martínez
+157,Pass,11,31,27586,13,Successful,3.0,69.3,13,62.5,OpenPlay,89401.0,Granit Xhaka,David Luiz
+158,Pass,11,34,89401,13,Successful,12.7,59.6,3,45.4,OpenPlay,102248.0,Emiliano Martínez,Granit Xhaka
+159,Pass,11,36,102248,13,Successful,3.9,44.8,14.2,39.2,OpenPlay,125209.0,Mohamed Elneny,Emiliano Martínez
+160,Pass,11,38,125209,13,Successful,11.6,38.8,1.7,22.1,OpenPlay,288795.0,Rob Holding,Mohamed Elneny
+161,Pass,11,40,288795,13,Successful,2.0,22.7,13.8,2.7,OpenPlay,125211.0,Héctor Bellerín,Rob Holding
+162,Pass,11,43,125211,13,Successful,20.2,4.0,44.7,3.1,OpenPlay,367185.0,Bukayo Saka,Héctor Bellerín
+163,Pass,11,49,367185,13,Successful,62.3,16.9,76.1,84.7,OpenPlay,96182.0,Roberto Firmino,Bukayo Saka
+164,Pass,12,54,96182,26,Successful,50.2,50.0,38.7,67.8,OpenPlay,4511.0,James Milner,Roberto Firmino
+165,Pass,12,57,4511,26,Successful,41.2,75.2,34.5,43.1,OpenPlay,136451.0,Joseph Gomez,James Milner
+166,Pass,13,1,136451,26,Successful,41.0,43.9,36.6,63.1,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+167,Pass,13,3,95408,26,Successful,39.2,67.8,59.7,93.1,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+168,Pass,13,6,115726,26,Unsuccessful,60.1,95.3,72.8,72.7,OpenPlay,,,Andrew Robertson
+169,Pass,13,12,4511,26,Successful,75.5,100.0,79.5,85.3,ThrowIn,109915.0,Sadio Mané,James Milner
+170,Pass,13,14,109915,26,Unsuccessful,78.1,84.5,88.2,90.3,OpenPlay,,,Sadio Mané
+171,Pass,13,17,109915,26,Unsuccessful,79.5,73.2,82.3,46.8,OpenPlay,,,Sadio Mané
+172,Pass,13,19,255169,13,Unsuccessful,17.7,53.6,45.7,83.3,OpenPlay,,,Ainsley Maitland-Niles
+173,Pass,13,23,136451,26,Successful,53.3,11.2,70.9,5.8,OpenPlay,386969.0,Neco Williams,Joseph Gomez
+174,Pass,13,30,386969,26,Successful,70.8,0.0,56.9,6.4,ThrowIn,136451.0,Joseph Gomez,Neco Williams
+175,Pass,13,33,136451,26,Successful,53.1,7.7,44.6,31.2,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+176,Pass,13,36,95408,26,Successful,44.3,44.3,43.7,71.5,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+177,Pass,13,41,115726,26,Successful,36.7,65.5,32.7,40.3,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+178,Pass,13,43,95408,26,Successful,32.7,40.3,14.8,47.8,OpenPlay,114147.0,Alisson,Virgil van Dijk
+179,Pass,13,46,114147,26,Successful,14.4,47.4,23.1,20.9,OpenPlay,136451.0,Joseph Gomez,Alisson
+180,Pass,13,49,136451,26,Unsuccessful,22.5,20.9,32.2,0,OpenPlay,,,Joseph Gomez
+181,Pass,14,16,297403,13,Unsuccessful,64.2,100.0,89.7,92.5,ThrowIn,,,Kieran Tierney
+182,Pass,14,18,386969,26,Successful,10.0,9.3,13,23.1,OpenPlay,95408.0,Virgil van Dijk,Neco Williams
+183,Pass,14,19,95408,26,Unsuccessful,14.1,22.7,38.9,0,OpenPlay,,,Virgil van Dijk
+184,Pass,14,33,297403,13,Successful,70.2,100.0,78.4,94.4,ThrowIn,255169.0,Ainsley Maitland-Niles,Kieran Tierney
+185,Pass,14,34,255169,13,Successful,78.2,93.6,70.5,97.3,OpenPlay,297403.0,Kieran Tierney,Ainsley Maitland-Niles
+186,Pass,14,36,297403,13,Successful,68.9,98.4,58,92.7,OpenPlay,89401.0,Granit Xhaka,Kieran Tierney
+187,Pass,14,38,89401,13,Successful,59.3,87.4,34.2,87,OpenPlay,27586.0,David Luiz,Granit Xhaka
+188,Pass,14,42,27586,13,Successful,34.6,84.7,17.2,53.4,OpenPlay,102248.0,Emiliano Martínez,David Luiz
+189,Pass,14,47,102248,13,Successful,15.6,49.3,12.4,26.6,OpenPlay,288795.0,Rob Holding,Emiliano Martínez
+190,Pass,14,49,288795,13,Successful,13.3,18.4,51.4,20.2,OpenPlay,345845.0,Eddie Nketiah,Rob Holding
+191,Pass,14,54,345845,13,Successful,43.6,22.3,39,15.8,OpenPlay,125211.0,Héctor Bellerín,Eddie Nketiah
+192,Pass,14,55,125211,13,Successful,39.0,15.8,40.6,27.1,OpenPlay,125209.0,Mohamed Elneny,Héctor Bellerín
+193,Pass,14,58,125209,13,Successful,38.2,29.6,23.8,63.3,OpenPlay,27586.0,David Luiz,Mohamed Elneny
+194,Pass,15,1,27586,13,Successful,27.0,65.6,39.4,70.1,OpenPlay,89401.0,Granit Xhaka,David Luiz
+195,Pass,15,4,89401,13,Successful,37.5,76.5,40.4,96.9,OpenPlay,297403.0,Kieran Tierney,Granit Xhaka
+196,Pass,15,6,297403,13,Successful,39.1,96.9,21.8,82.2,OpenPlay,27586.0,David Luiz,Kieran Tierney
+197,Pass,15,9,27586,13,Successful,14.3,70.2,8.1,50.1,OpenPlay,102248.0,Emiliano Martínez,David Luiz
+198,Pass,15,13,102248,13,Successful,8.5,45.2,19.7,36.8,OpenPlay,125209.0,Mohamed Elneny,Emiliano Martínez
+199,Pass,15,15,125209,13,Successful,19.7,36.8,5.6,15.8,OpenPlay,288795.0,Rob Holding,Mohamed Elneny
+200,Pass,15,18,288795,13,Unsuccessful,5.5,12.7,7.4,12.2,OpenPlay,,,Rob Holding
+201,Pass,15,36,125211,13,Successful,17.7,0.0,14.5,12.5,ThrowIn,288795.0,Rob Holding,Héctor Bellerín
+202,Pass,15,36,288795,13,Successful,13.4,15.1,14.7,74.6,OpenPlay,27586.0,David Luiz,Rob Holding
+203,Pass,15,37,27586,13,Successful,13.4,74.6,24.6,95.8,OpenPlay,297403.0,Kieran Tierney,David Luiz
+204,Pass,15,39,297403,13,Successful,23.4,96.4,14.5,76.3,OpenPlay,27586.0,David Luiz,Kieran Tierney
+205,Pass,15,44,27586,13,Successful,18.8,72.1,9.3,43.1,OpenPlay,102248.0,Emiliano Martínez,David Luiz
+206,Pass,15,49,102248,13,Successful,10.6,42.4,9,66.6,OpenPlay,27586.0,David Luiz,Emiliano Martínez
+207,Pass,15,52,27586,13,Successful,9.2,59.0,23.3,6.1,OpenPlay,125211.0,Héctor Bellerín,David Luiz
+208,Pass,16,0,125211,13,Unsuccessful,41.7,13.0,53.1,13.4,OpenPlay,,,Héctor Bellerín
+209,Pass,16,9,115726,26,Successful,43.1,84.8,59.4,94.7,OpenPlay,4511.0,James Milner,Andrew Robertson
+210,Pass,16,14,4511,26,Successful,63.2,96.9,52.1,91.7,OpenPlay,115726.0,Andrew Robertson,James Milner
+211,Pass,16,16,115726,26,Successful,50.7,87.4,44.7,44.5,OpenPlay,136451.0,Joseph Gomez,Andrew Robertson
+212,Pass,16,20,136451,26,Unsuccessful,53.3,43.5,86,69.3,OpenPlay,,,Joseph Gomez
+213,Pass,16,34,4511,26,Successful,94.5,100.0,95.7,91.2,ThrowIn,109915.0,Sadio Mané,James Milner
+214,Pass,16,35,109915,26,Successful,95.7,91.2,88.9,93.5,OpenPlay,4511.0,James Milner,Sadio Mané
+215,Pass,16,36,4511,26,Successful,89.7,92.9,84.5,92.9,OpenPlay,115726.0,Andrew Robertson,James Milner
+216,Pass,16,39,115726,26,Unsuccessful,87.2,94.1,89.4,89.4,OpenPlay,,,Andrew Robertson
+217,Pass,16,46,115726,26,Successful,78.4,100.0,55.1,68.5,ThrowIn,95408.0,Virgil van Dijk,Andrew Robertson
+218,Pass,16,50,95408,26,Successful,55.1,68.5,55.4,42.8,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+219,Pass,16,53,136451,26,Successful,55.4,42.8,65.8,53.3,OpenPlay,115916.0,Fabinho,Joseph Gomez
+220,Pass,16,55,115916,26,Successful,64.9,51.2,48.1,62.7,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+221,Pass,16,58,95408,26,Successful,48.8,58.2,47.9,41.8,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+222,Pass,17,0,136451,26,Successful,47.9,41.8,55.2,15.8,OpenPlay,33568.0,Georginio Wijnaldum,Joseph Gomez
+223,Pass,17,3,33568,26,Successful,55.6,15.5,44,36.3,OpenPlay,345845.0,Eddie Nketiah,Georginio Wijnaldum
+224,Pass,17,7,345845,13,Successful,56.6,62.0,53.7,55.5,OpenPlay,89401.0,Granit Xhaka,Eddie Nketiah
+225,Pass,17,11,89401,13,Successful,68.7,49.1,78.7,28.4,OpenPlay,367185.0,Bukayo Saka,Granit Xhaka
+226,Pass,17,13,367185,13,Successful,88.5,28.1,85.2,46.6,OpenPlay,367185.0,Bukayo Saka,Bukayo Saka
+227,Pass,17,58,367185,13,Unsuccessful,99.5,0.5,95.4,48.1,CornerTaken,,,Bukayo Saka
+228,Pass,18,3,114147,26,Successful,13.8,52.7,30.5,13.1,OpenPlay,386969.0,Neco Williams,Alisson
+229,Pass,18,8,386969,26,Unsuccessful,39.0,7.3,88.6,24.6,OpenPlay,,,Neco Williams
+230,Pass,18,21,102248,13,Unsuccessful,15.1,54.3,64.8,91.7,OpenPlay,,,Emiliano Martínez
+231,Pass,18,29,136451,26,Successful,14.3,5.2,5,32.8,OpenPlay,114147.0,Alisson,Joseph Gomez
+232,Pass,18,39,114147,26,Successful,9.5,42.5,8.4,68.7,OpenPlay,95408.0,Virgil van Dijk,Alisson
+233,Pass,18,42,95408,26,Successful,13.8,72.1,21.9,60,OpenPlay,115916.0,Fabinho,Virgil van Dijk
+234,Pass,18,46,115916,26,Successful,29.1,55.7,24.7,67.9,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+235,Pass,18,48,95408,26,Successful,24.7,67.9,31.7,93,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+236,Pass,18,51,115726,26,Successful,31.3,94.8,29.3,72.6,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+237,Pass,18,54,95408,26,Successful,32.0,62.7,33.6,39.1,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+238,Pass,18,57,136451,26,Successful,35.6,34.0,47.2,2.8,OpenPlay,386969.0,Neco Williams,Joseph Gomez
+239,Pass,19,0,386969,26,Unsuccessful,47.2,2.8,72.5,14.9,OpenPlay,,,Neco Williams
+240,Pass,19,3,297403,13,Unsuccessful,28.7,88.7,25.7,86.4,OpenPlay,,,Kieran Tierney
+241,Pass,19,9,96182,26,Successful,68.2,38.0,70.5,25.6,OpenPlay,33568.0,Georginio Wijnaldum,Roberto Firmino
+242,Pass,19,11,33568,26,Successful,70.5,25.6,74.6,21.6,OpenPlay,108226.0,Mohamed Salah,Georginio Wijnaldum
+243,Pass,19,14,108226,26,Unsuccessful,84.6,20.4,100,12.9,OpenPlay,,,Mohamed Salah
+244,Pass,19,40,102248,13,Unsuccessful,4.7,51.3,65.5,77.3,OpenPlay,,,Emiliano Martínez
+245,Pass,19,44,136451,26,Unsuccessful,32.3,23.1,42.9,32,OpenPlay,,,Joseph Gomez
+246,Pass,19,47,33568,26,Successful,46.6,46.0,45,52.4,OpenPlay,4511.0,James Milner,Georginio Wijnaldum
+247,Pass,19,49,4511,26,Successful,44.6,50.7,56.1,53.8,OpenPlay,96182.0,Roberto Firmino,James Milner
+248,Pass,19,50,96182,26,Unsuccessful,58.4,63.1,53.4,71.5,OpenPlay,,,Roberto Firmino
+249,Pass,19,55,367185,13,Successful,52.8,13.3,41,7.9,OpenPlay,125211.0,Héctor Bellerín,Bukayo Saka
+250,Pass,19,55,125211,13,Successful,41.0,7.9,44.1,16.4,OpenPlay,125209.0,Mohamed Elneny,Héctor Bellerín
+251,Pass,19,57,125209,13,Successful,44.2,16.6,39.5,31.1,OpenPlay,89401.0,Granit Xhaka,Mohamed Elneny
+252,Pass,19,59,89401,13,Successful,38.3,34.6,51.1,59.4,OpenPlay,255169.0,Ainsley Maitland-Niles,Granit Xhaka
+253,Pass,20,1,255169,13,Successful,53.5,62.9,63.2,91.4,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Ainsley Maitland-Niles
+254,Pass,20,6,44120,13,Successful,64.0,92.1,87.1,97.8,OpenPlay,297403.0,Kieran Tierney,Pierre-Emerick Aubameyang
+255,Pass,20,12,297403,13,Successful,85.2,93.6,76.8,93.5,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Kieran Tierney
+256,Pass,20,14,44120,13,Successful,76.7,93.9,62.1,89.4,OpenPlay,255169.0,Ainsley Maitland-Niles,Pierre-Emerick Aubameyang
+257,Pass,20,17,255169,13,Successful,60.5,89.4,53.4,68.7,OpenPlay,27586.0,David Luiz,Ainsley Maitland-Niles
+258,Pass,20,20,27586,13,Successful,54.1,64.7,78.7,97.5,OpenPlay,297403.0,Kieran Tierney,David Luiz
+259,Pass,20,23,297403,13,Unsuccessful,80.9,94.4,91.9,47.8,OpenPlay,,,Kieran Tierney
+260,Pass,20,36,114147,26,Successful,14.4,52.8,18.2,43.7,OpenPlay,136451.0,Joseph Gomez,Alisson
+261,Pass,20,40,136451,26,Successful,19.5,36.1,36.9,2.8,OpenPlay,386969.0,Neco Williams,Joseph Gomez
+262,Pass,20,47,386969,26,Successful,54.3,4.7,39.6,13.4,OpenPlay,136451.0,Joseph Gomez,Neco Williams
+263,Pass,20,51,136451,26,Successful,37.4,19.5,34.8,53,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+264,Pass,20,54,95408,26,Successful,36.0,54.9,37.8,28.5,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+265,Pass,20,59,136451,26,Successful,46.3,33.7,43.8,63.4,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+266,Pass,21,3,95408,26,Successful,48.2,68.1,61.4,94.4,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+267,Pass,21,6,115726,26,Successful,62.2,96.0,72,74.2,OpenPlay,109915.0,Sadio Mané,Andrew Robertson
+268,Pass,21,9,109915,26,Successful,70.8,89.7,74.1,94.8,OpenPlay,115726.0,Andrew Robertson,Sadio Mané
+269,Pass,21,10,115726,26,Successful,74.1,94.8,74,76.6,OpenPlay,4511.0,James Milner,Andrew Robertson
+270,Pass,21,11,4511,26,Successful,74.0,76.6,69.5,76.4,OpenPlay,96182.0,Roberto Firmino,James Milner
+271,Pass,21,13,96182,26,Successful,71.1,68.6,84.9,24.6,OpenPlay,95408.0,Virgil van Dijk,Roberto Firmino
+272,Pass,21,22,95408,26,Successful,56.9,58.7,60,37.1,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+273,Pass,21,25,136451,26,Successful,60.0,32.7,66.7,2.6,OpenPlay,108226.0,Mohamed Salah,Joseph Gomez
+274,Pass,21,28,108226,26,Successful,67.0,3.2,87.2,25.8,OpenPlay,4511.0,James Milner,Mohamed Salah
+275,Pass,21,31,4511,26,Unsuccessful,88.8,31.6,92,48.9,OpenPlay,,,James Milner
+276,Pass,21,35,44120,13,Unsuccessful,20.8,91.3,34.3,100,OpenPlay,,,Pierre-Emerick Aubameyang
+277,Pass,21,47,386969,26,Successful,58.4,0.0,58.4,8,ThrowIn,115916.0,Fabinho,Neco Williams
+278,Pass,21,49,115916,26,Successful,58.6,7.3,45.6,5.3,OpenPlay,136451.0,Joseph Gomez,Fabinho
+279,Pass,21,51,136451,26,Successful,45.3,7.9,43.7,32.7,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+280,Pass,21,56,95408,26,Successful,45.6,40.2,44.9,16.9,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+281,Pass,21,58,136451,26,Successful,45.9,16.5,63.4,3.1,OpenPlay,386969.0,Neco Williams,Joseph Gomez
+282,Pass,22,3,386969,26,Successful,65.1,12.5,47.8,47.5,OpenPlay,95408.0,Virgil van Dijk,Neco Williams
+283,Pass,22,6,95408,26,Successful,52.5,48.7,66.7,90.9,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+284,Pass,22,9,115726,26,Successful,64.4,74.2,73.2,53,OpenPlay,33568.0,Georginio Wijnaldum,Andrew Robertson
+285,Pass,22,11,33568,26,Successful,72.8,50.4,76.8,60.5,OpenPlay,4511.0,James Milner,Georginio Wijnaldum
+286,Pass,22,13,4511,26,Unsuccessful,77.8,61.0,85.6,52.2,OpenPlay,,,James Milner
+287,Pass,22,21,95408,26,Successful,52.5,73.5,57.9,87.4,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+288,Pass,22,23,115726,26,Successful,58.8,83.2,52.2,47.8,OpenPlay,136451.0,Joseph Gomez,Andrew Robertson
+289,Pass,22,29,136451,26,Successful,55.3,44.3,53.2,69.4,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+290,Pass,22,31,95408,26,Successful,54.2,70.2,60.2,92.7,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+291,Pass,22,36,115726,26,Successful,63.5,94.4,55.8,74.1,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+292,Pass,22,41,95408,26,Successful,55.7,73.6,66.3,95.9,OpenPlay,125211.0,Héctor Bellerín,Virgil van Dijk
+293,Pass,23,11,125211,13,Successful,23.1,0.0,23.2,17.9,ThrowIn,125209.0,Mohamed Elneny,Héctor Bellerín
+294,Pass,23,13,125209,13,Successful,23.2,17.9,14.8,61.4,OpenPlay,297403.0,Kieran Tierney,Mohamed Elneny
+295,Pass,23,16,297403,13,Successful,15.5,63.3,31.5,72.1,OpenPlay,27586.0,David Luiz,Kieran Tierney
+296,Pass,23,44,27586,13,Unsuccessful,34.2,85.1,68.1,90.7,OpenPlay,,,David Luiz
+297,Pass,23,46,386969,26,Unsuccessful,31.5,9.9,40,7.9,OpenPlay,,,Neco Williams
+298,Pass,24,0,386969,26,Successful,27.0,0.0,55.1,3.7,ThrowIn,89401.0,Granit Xhaka,Neco Williams
+299,Pass,24,7,89401,13,Successful,44.7,85.3,56,74.4,OpenPlay,33568.0,Georginio Wijnaldum,Granit Xhaka
+300,Pass,24,10,33568,26,Unsuccessful,45.4,33.0,47,56.7,OpenPlay,,,Georginio Wijnaldum
+301,Pass,24,13,125211,13,Successful,62.8,36.5,69.7,34.5,OpenPlay,95408.0,Virgil van Dijk,Héctor Bellerín
+302,Pass,24,31,95408,26,Successful,14.8,73.4,11,56.1,OpenPlay,114147.0,Alisson,Virgil van Dijk
+303,Pass,24,37,114147,26,Successful,14.3,54.9,28.4,2.2,OpenPlay,386969.0,Neco Williams,Alisson
+304,Pass,24,41,386969,26,Successful,28.7,2.9,54.4,8.9,OpenPlay,4511.0,James Milner,Neco Williams
+305,Pass,24,45,4511,26,Successful,55.9,6.1,47,24,OpenPlay,115916.0,Fabinho,James Milner
+306,Pass,24,47,115916,26,Successful,47.3,18.3,46.9,5.3,OpenPlay,4511.0,James Milner,Fabinho
+307,Pass,24,49,4511,26,Successful,46.9,5.3,36.4,16.7,OpenPlay,136451.0,Joseph Gomez,James Milner
+308,Pass,24,55,136451,26,Successful,34.4,28.3,39.1,4.1,OpenPlay,4511.0,James Milner,Joseph Gomez
+309,Pass,24,58,4511,26,Unsuccessful,40.2,4.0,89.5,37.1,OpenPlay,,,James Milner
+310,Pass,25,2,102248,13,Successful,11.5,60.4,20.8,27.2,OpenPlay,288795.0,Rob Holding,Emiliano Martínez
+311,Pass,25,8,288795,13,Successful,23.7,24.8,27.9,2.8,OpenPlay,125211.0,Héctor Bellerín,Rob Holding
+312,Pass,25,10,125211,13,Successful,28.8,3.7,29.7,14.8,OpenPlay,125209.0,Mohamed Elneny,Héctor Bellerín
+313,Pass,25,11,125209,13,Successful,29.7,14.8,23.3,7.1,OpenPlay,125211.0,Héctor Bellerín,Mohamed Elneny
+314,Pass,25,12,125211,13,Successful,23.3,7.1,13.2,18.8,OpenPlay,288795.0,Rob Holding,Héctor Bellerín
+315,Pass,25,15,288795,13,Successful,12.4,24.4,9.5,77.4,OpenPlay,27586.0,David Luiz,Rob Holding
+316,Pass,25,19,27586,13,Unsuccessful,10.0,87.6,39.3,86.1,OpenPlay,,,David Luiz
+317,Pass,25,25,44120,13,Unsuccessful,28.9,74.1,29.7,73.1,OpenPlay,,,Pierre-Emerick Aubameyang
+318,Pass,25,26,125209,13,Unsuccessful,28.9,64.3,34.3,81,OpenPlay,,,Mohamed Elneny
+319,Pass,25,55,27586,13,Successful,32.8,76.7,59.4,16.7,OpenPlay,125211.0,Héctor Bellerín,David Luiz
+320,Pass,26,0,125211,13,Successful,63.1,16.7,55.5,27.1,OpenPlay,125209.0,Mohamed Elneny,Héctor Bellerín
+321,Pass,26,2,125209,13,Successful,55.5,27.8,40.3,30.4,OpenPlay,288795.0,Rob Holding,Mohamed Elneny
+322,Pass,26,5,288795,13,Successful,39.9,31.2,34.6,64.5,OpenPlay,27586.0,David Luiz,Rob Holding
+323,Pass,26,8,27586,13,Unsuccessful,37.3,64.2,64,100,OpenPlay,,,David Luiz
+324,Pass,26,15,386969,26,Successful,29.2,0.0,36.6,13,ThrowIn,115916.0,Fabinho,Neco Williams
+325,Pass,26,17,115916,26,Unsuccessful,36.6,13.4,55.4,13.7,OpenPlay,,,Fabinho
+326,Pass,26,18,297403,13,Unsuccessful,43.6,85.1,67.5,78.9,OpenPlay,,,Kieran Tierney
+327,Pass,26,21,136451,26,Unsuccessful,28.3,21.3,34.2,15.3,OpenPlay,,,Joseph Gomez
+328,Pass,26,23,89401,13,Successful,64.0,86.1,60.3,95.6,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Granit Xhaka
+329,Pass,26,25,44120,13,Unsuccessful,57.8,96.0,61.8,89.2,OpenPlay,,,Pierre-Emerick Aubameyang
+330,Pass,26,28,89401,13,Successful,62.7,84.3,55,75.2,OpenPlay,125209.0,Mohamed Elneny,Granit Xhaka
+331,Pass,26,29,125209,13,Successful,54.7,77.4,61.7,54,OpenPlay,367185.0,Bukayo Saka,Mohamed Elneny
+332,Pass,26,34,367185,13,Successful,68.9,53.4,79.1,68.6,OpenPlay,114147.0,Alisson,Bukayo Saka
+333,Pass,27,4,114147,26,Successful,4.7,50.6,10.8,35.5,OpenPlay,136451.0,Joseph Gomez,Alisson
+334,Pass,27,9,136451,26,Successful,12.3,31.6,28.9,3.8,OpenPlay,386969.0,Neco Williams,Joseph Gomez
+335,Pass,27,18,386969,26,Successful,52.2,4.9,61.1,5.6,OpenPlay,96182.0,Roberto Firmino,Neco Williams
+336,Pass,27,20,96182,26,Successful,64.4,4.6,63.1,14.1,OpenPlay,33568.0,Georginio Wijnaldum,Roberto Firmino
+337,Pass,27,23,33568,26,Successful,60.2,24.0,53.2,41,OpenPlay,115916.0,Fabinho,Georginio Wijnaldum
+338,Pass,27,28,115916,26,Successful,55.9,43.6,61.9,31.5,OpenPlay,33568.0,Georginio Wijnaldum,Fabinho
+339,Pass,27,30,33568,26,Successful,62.0,32.1,60.6,42.7,OpenPlay,115916.0,Fabinho,Georginio Wijnaldum
+340,Pass,27,33,115916,26,Successful,61.9,52.2,70.2,88.4,OpenPlay,4511.0,James Milner,Fabinho
+341,Pass,27,37,4511,26,Successful,75.1,92.6,57.8,76.4,OpenPlay,95408.0,Virgil van Dijk,James Milner
+342,Pass,27,41,95408,26,Successful,57.8,76.4,79.1,96,OpenPlay,4511.0,James Milner,Virgil van Dijk
+343,Pass,27,44,4511,26,Successful,79.5,95.4,94,90.5,OpenPlay,109915.0,Sadio Mané,James Milner
+344,Pass,27,48,109915,26,Unsuccessful,94.4,87.2,93.7,85.3,OpenPlay,,,Sadio Mané
+345,Pass,27,50,115916,26,Unsuccessful,75.9,75.6,90.1,54.5,OpenPlay,,,Fabinho
+346,Pass,27,56,95408,26,Successful,55.8,63.9,53.8,42.1,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+347,Pass,28,0,136451,26,Successful,53.2,40.6,46.3,58.8,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+348,Pass,28,3,95408,26,Successful,46.3,58.8,56.6,95.4,OpenPlay,4511.0,James Milner,Virgil van Dijk
+349,Pass,28,6,4511,26,Successful,57.2,95.4,71.6,87.7,OpenPlay,109915.0,Sadio Mané,James Milner
+350,Pass,28,10,109915,26,Successful,60.6,88.7,45.7,67.9,OpenPlay,95408.0,Virgil van Dijk,Sadio Mané
+351,Pass,28,12,95408,26,Successful,45.7,67.9,58.1,66,OpenPlay,95408.0,Virgil van Dijk,Virgil van Dijk
+352,Pass,28,21,95408,26,Successful,54.6,56.3,55.4,33.6,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+353,Pass,28,27,136451,26,Successful,57.2,34.8,52.7,57.5,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+354,Pass,28,29,95408,26,Successful,56.1,62.3,63.4,96.9,OpenPlay,4511.0,James Milner,Virgil van Dijk
+355,Pass,28,36,4511,26,Unsuccessful,74.4,94.8,75.4,90.3,OpenPlay,,,James Milner
+356,Pass,28,38,4511,26,Unsuccessful,87.9,92.9,91.7,50.9,OpenPlay,,,James Milner
+357,Pass,28,41,33568,26,Successful,80.1,48.2,79.2,26.7,OpenPlay,386969.0,Neco Williams,Georginio Wijnaldum
+358,Pass,28,44,386969,26,Successful,77.3,24.9,70.1,29.7,OpenPlay,136451.0,Joseph Gomez,Neco Williams
+359,Pass,28,47,136451,26,Successful,69.8,30.0,95.6,83.6,OpenPlay,4511.0,James Milner,Joseph Gomez
+360,Pass,28,52,4511,26,Unsuccessful,94.2,88.4,90,50.3,OpenPlay,,,James Milner
+361,Pass,28,57,136451,26,Successful,66.1,57.3,69.9,57.6,OpenPlay,115916.0,Fabinho,Joseph Gomez
+362,Pass,28,58,115916,26,Successful,69.9,57.6,57.8,72.4,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+363,Pass,29,1,95408,26,Successful,57.8,72.4,72.4,97.5,OpenPlay,4511.0,James Milner,Virgil van Dijk
+364,Pass,29,4,4511,26,Successful,73.2,97.5,64.6,87.2,OpenPlay,115916.0,Fabinho,James Milner
+365,Pass,29,6,115916,26,Successful,64.6,87.2,64.6,95.3,OpenPlay,115726.0,Andrew Robertson,Fabinho
+366,Pass,29,7,115726,26,Successful,64.6,95.3,53.1,74.4,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+367,Pass,29,9,95408,26,Successful,53.4,72.8,86.3,7.5,OpenPlay,255169.0,Ainsley Maitland-Niles,Virgil van Dijk
+368,Pass,29,14,255169,13,Unsuccessful,8.8,96.6,27.9,96.2,OpenPlay,,,Ainsley Maitland-Niles
+369,Pass,29,17,33568,26,Successful,71.8,3.6,76.1,3.1,OpenPlay,386969.0,Neco Williams,Georginio Wijnaldum
+370,Pass,29,18,386969,26,Successful,76.2,2.9,63.4,6.2,OpenPlay,136451.0,Joseph Gomez,Neco Williams
+371,Pass,29,20,136451,26,Successful,63.5,5.6,65.1,26.1,OpenPlay,115916.0,Fabinho,Joseph Gomez
+372,Pass,29,21,115916,26,Successful,65.1,26.1,63.3,11,OpenPlay,136451.0,Joseph Gomez,Fabinho
+373,Pass,29,24,136451,26,Successful,63.3,11.0,53,44.6,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+374,Pass,29,29,95408,26,Successful,56.0,51.6,57.7,34.2,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+375,Pass,29,33,136451,26,Successful,63.8,32.4,74.4,38.6,OpenPlay,96182.0,Roberto Firmino,Joseph Gomez
+376,Pass,29,36,96182,26,Successful,70.1,38.3,69.4,49.1,OpenPlay,4511.0,James Milner,Roberto Firmino
+377,Pass,29,37,4511,26,Successful,72.8,53.1,87.6,85.9,OpenPlay,115726.0,Andrew Robertson,James Milner
+378,Pass,29,42,115726,26,Successful,86.9,87.8,70.4,79,OpenPlay,4511.0,James Milner,Andrew Robertson
+379,Pass,29,44,4511,26,Successful,69.7,77.3,65.4,43,OpenPlay,136451.0,Joseph Gomez,James Milner
+380,Pass,29,47,136451,26,Successful,65.4,43.0,82.3,10.9,OpenPlay,386969.0,Neco Williams,Joseph Gomez
+381,Pass,29,51,386969,26,Successful,77.4,16.2,66.7,29.7,OpenPlay,136451.0,Joseph Gomez,Neco Williams
+382,Pass,29,53,136451,26,Successful,66.1,31.9,65,53.3,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+383,Pass,29,55,95408,26,Successful,65.9,56.7,77,88.9,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+384,Pass,29,58,115726,26,Successful,81.0,92.0,88.3,88.7,OpenPlay,109915.0,Sadio Mané,Andrew Robertson
+385,Pass,30,1,109915,26,Successful,88.3,88.7,88.2,71.8,OpenPlay,96182.0,Roberto Firmino,Sadio Mané
+386,Pass,30,2,96182,26,Successful,88.2,71.8,96.7,74.1,OpenPlay,115726.0,Andrew Robertson,Roberto Firmino
+387,Pass,30,4,115726,26,Successful,96.4,73.4,86.9,2.5,OpenPlay,386969.0,Neco Williams,Andrew Robertson
+388,Pass,30,11,386969,26,Successful,87.0,4.0,96.4,69,OpenPlay,109915.0,Sadio Mané,Neco Williams
+389,Pass,30,13,109915,26,Successful,97.0,68.2,88.5,68,OpenPlay,115726.0,Andrew Robertson,Sadio Mané
+390,Pass,30,16,115726,26,Unsuccessful,88.3,68.6,89.6,57.1,OpenPlay,,,Andrew Robertson
+391,Pass,30,21,115916,26,Unsuccessful,73.6,58.1,79.1,59.1,OpenPlay,,,Fabinho
+392,Pass,30,22,125209,13,Unsuccessful,20.8,40.8,35,35.7,OpenPlay,,,Mohamed Elneny
+393,Pass,30,24,95408,26,Unsuccessful,61.5,67.2,69.9,81.2,OpenPlay,,,Virgil van Dijk
+394,Pass,30,26,367185,13,Successful,30.8,18.5,26.7,11.5,OpenPlay,125211.0,Héctor Bellerín,Bukayo Saka
+395,Pass,30,28,125211,13,Successful,26.9,10.2,30.1,19,OpenPlay,125209.0,Mohamed Elneny,Héctor Bellerín
+396,Pass,30,28,125209,13,Successful,30.3,19.8,13.4,19.2,OpenPlay,288795.0,Rob Holding,Mohamed Elneny
+397,Pass,30,30,288795,13,Successful,12.9,18.5,4.3,47.9,OpenPlay,102248.0,Emiliano Martínez,Rob Holding
+398,Pass,30,34,102248,13,Successful,3.6,52.8,51.7,97.4,OpenPlay,386969.0,Neco Williams,Emiliano Martínez
+399,Pass,30,59,386969,26,Successful,38.3,0.0,23.2,11.8,ThrowIn,136451.0,Joseph Gomez,Neco Williams
+400,Pass,31,2,136451,26,Successful,21.9,19.1,11.2,44.3,OpenPlay,114147.0,Alisson,Joseph Gomez
+401,Pass,31,4,114147,26,Successful,11.2,44.3,26.3,90.6,OpenPlay,115726.0,Andrew Robertson,Alisson
+402,Pass,31,6,115726,26,Successful,29.2,90.6,20.4,73.2,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+403,Pass,31,10,95408,26,Successful,20.7,65.8,18.7,47.9,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+404,Pass,31,12,136451,26,Successful,18.7,47.9,27,15,OpenPlay,4511.0,James Milner,Joseph Gomez
+405,Pass,31,22,4511,26,Successful,54.7,3.5,63.3,2.3,OpenPlay,386969.0,Neco Williams,James Milner
+406,Pass,31,23,386969,26,Successful,63.3,2.3,57.7,3.1,OpenPlay,4511.0,James Milner,Neco Williams
+407,Pass,31,25,4511,26,Successful,57.7,3.1,34.3,31.6,OpenPlay,136451.0,Joseph Gomez,James Milner
+408,Pass,31,28,136451,26,Successful,40.6,33.6,40.3,62.5,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+409,Pass,31,31,95408,26,Unsuccessful,42.3,64.3,87.5,84.7,OpenPlay,,,Virgil van Dijk
+410,Pass,31,34,125211,13,Successful,13.7,19.2,19.5,32.2,OpenPlay,125209.0,Mohamed Elneny,Héctor Bellerín
+411,Pass,31,35,125209,13,Successful,19.8,33.4,10,16.6,OpenPlay,125211.0,Héctor Bellerín,Mohamed Elneny
+412,Pass,31,38,125211,13,Successful,9.9,15.4,25.9,27.2,OpenPlay,345845.0,Eddie Nketiah,Héctor Bellerín
+413,Pass,31,39,345845,13,Successful,26.0,27.4,29.1,10.1,OpenPlay,367185.0,Bukayo Saka,Eddie Nketiah
+414,Pass,31,48,367185,13,Successful,59.4,7.3,44.4,15.5,OpenPlay,125209.0,Mohamed Elneny,Bukayo Saka
+415,Pass,31,50,125209,13,Successful,44.9,18.0,45.4,45.8,OpenPlay,89401.0,Granit Xhaka,Mohamed Elneny
+416,Pass,31,53,89401,13,Successful,46.6,49.0,60.9,96.6,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Granit Xhaka
+417,Pass,31,57,44120,13,Successful,65.4,95.4,87.5,97.5,OpenPlay,297403.0,Kieran Tierney,Pierre-Emerick Aubameyang
+418,Pass,32,0,297403,13,Successful,89.2,96.4,86.9,66.8,OpenPlay,255169.0,Ainsley Maitland-Niles,Kieran Tierney
+419,Pass,32,2,255169,13,Successful,89.2,67.8,89.2,58.5,OpenPlay,345845.0,Eddie Nketiah,Ainsley Maitland-Niles
+420,Pass,32,3,345845,13,Unsuccessful,87.5,49.7,87.9,48.5,OpenPlay,,,Eddie Nketiah
+421,Pass,32,6,33568,26,Successful,20.0,49.7,22.6,36,OpenPlay,4511.0,James Milner,Georginio Wijnaldum
+422,Pass,32,7,4511,26,Successful,22.6,36.0,31,47.5,OpenPlay,108226.0,Mohamed Salah,James Milner
+423,Pass,32,11,108226,26,Successful,34.9,61.1,59.2,92.1,OpenPlay,109915.0,Sadio Mané,Mohamed Salah
+424,Pass,32,20,109915,26,Successful,75.6,90.5,76.7,73.3,OpenPlay,108226.0,Mohamed Salah,Sadio Mané
+425,Pass,32,22,108226,26,Successful,78.5,71.1,97.6,82.6,OpenPlay,288795.0,Rob Holding,Mohamed Salah
+426,Pass,32,31,288795,13,Successful,14.1,6.2,25.8,10.2,OpenPlay,367185.0,Bukayo Saka,Rob Holding
+427,Pass,32,35,367185,13,Successful,26.2,18.1,29.5,52.7,OpenPlay,89401.0,Granit Xhaka,Bukayo Saka
+428,Pass,32,37,89401,13,Successful,29.4,52.7,27,47,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Granit Xhaka
+429,Pass,32,38,44120,13,Successful,27.0,47.0,26.7,82.4,OpenPlay,255169.0,Ainsley Maitland-Niles,Pierre-Emerick Aubameyang
+430,Pass,32,43,255169,13,Successful,27.8,83.9,10,61.4,OpenPlay,27586.0,David Luiz,Ainsley Maitland-Niles
+431,Pass,32,45,27586,13,Successful,9.9,59.3,10.2,32.8,OpenPlay,288795.0,Rob Holding,David Luiz
+432,Pass,32,49,288795,13,Successful,12.0,30.5,21.6,31.6,OpenPlay,125209.0,Mohamed Elneny,Rob Holding
+433,Pass,32,53,125209,13,Successful,28.3,31.1,15,53.3,OpenPlay,27586.0,David Luiz,Mohamed Elneny
+434,Pass,32,56,27586,13,Successful,15.0,53.3,12.9,31.6,OpenPlay,288795.0,Rob Holding,David Luiz
+435,Pass,33,0,288795,13,Successful,13.1,28.7,7.8,65.7,OpenPlay,27586.0,David Luiz,Rob Holding
+436,Pass,33,2,27586,13,Successful,9.8,68.7,20.6,96.9,OpenPlay,297403.0,Kieran Tierney,David Luiz
+437,Pass,33,7,297403,13,Successful,31.9,86.8,31.9,71.3,OpenPlay,89401.0,Granit Xhaka,Kieran Tierney
+438,Pass,33,11,89401,13,Successful,35.5,67.2,22.4,58.5,OpenPlay,27586.0,David Luiz,Granit Xhaka
+439,Pass,33,15,27586,13,Successful,23.2,54.0,30.7,41,OpenPlay,125209.0,Mohamed Elneny,David Luiz
+440,Pass,33,18,125209,13,Successful,31.0,35.6,20.5,29.2,OpenPlay,288795.0,Rob Holding,Mohamed Elneny
+441,Pass,33,20,288795,13,Successful,20.4,29.9,18.6,49.6,OpenPlay,27586.0,David Luiz,Rob Holding
+442,Pass,33,22,27586,13,Successful,18.6,49.9,1.6,51.6,OpenPlay,102248.0,Emiliano Martínez,David Luiz
+443,Pass,33,25,102248,13,Successful,1.4,51.0,3.2,23.5,OpenPlay,288795.0,Rob Holding,Emiliano Martínez
+444,Pass,33,28,288795,13,Successful,4.5,17.8,27.6,10.3,OpenPlay,367185.0,Bukayo Saka,Rob Holding
+445,Pass,33,30,367185,13,Unsuccessful,23.8,9.5,21.1,7.7,OpenPlay,,,Bukayo Saka
+446,Pass,33,31,125211,13,Unsuccessful,15.5,6.9,19.4,0,OpenPlay,,,Héctor Bellerín
+447,Pass,33,48,115726,26,Successful,79.1,100.0,84,82,ThrowIn,96182.0,Roberto Firmino,Andrew Robertson
+448,Pass,33,52,96182,26,Successful,86.5,89.1,74.9,82.6,OpenPlay,115916.0,Fabinho,Roberto Firmino
+449,Pass,33,53,115916,26,Successful,73.2,80.0,65.2,70.6,OpenPlay,4511.0,James Milner,Fabinho
+450,Pass,33,55,4511,26,Successful,64.0,69.9,55.1,40.7,OpenPlay,136451.0,Joseph Gomez,James Milner
+451,Pass,33,58,136451,26,Successful,54.6,43.4,48.6,75.1,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+452,Pass,34,1,95408,26,Successful,47.8,80.9,61.8,96.6,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+453,Pass,34,4,115726,26,Successful,61.8,96.2,40.1,90.6,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+454,Pass,34,7,95408,26,Successful,39.7,85.9,34.9,54.8,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+455,Pass,34,14,136451,26,Successful,32.9,59.9,30.6,76,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+456,Pass,34,17,95408,26,Successful,28.5,74.8,25.5,24,OpenPlay,33568.0,Georginio Wijnaldum,Virgil van Dijk
+457,Pass,34,20,33568,26,Successful,25.5,24.0,11.9,44.3,OpenPlay,114147.0,Alisson,Georginio Wijnaldum
+458,Pass,34,25,114147,26,Successful,14.3,46.1,20.4,49.9,OpenPlay,136451.0,Joseph Gomez,Alisson
+459,Pass,34,30,136451,26,Successful,27.9,52.1,34.9,51.9,OpenPlay,115916.0,Fabinho,Joseph Gomez
+460,Pass,34,31,115916,26,Successful,34.9,51.9,28.6,50.4,OpenPlay,136451.0,Joseph Gomez,Fabinho
+461,Pass,34,33,136451,26,Successful,28.1,49.7,34.6,52.7,OpenPlay,115916.0,Fabinho,Joseph Gomez
+462,Pass,34,35,115916,26,Successful,37.2,52.7,48.4,91.2,OpenPlay,115726.0,Andrew Robertson,Fabinho
+463,Pass,34,39,115726,26,Successful,52.8,92.1,71.7,96,OpenPlay,109915.0,Sadio Mané,Andrew Robertson
+464,Pass,34,45,109915,26,Unsuccessful,94.0,84.7,92.9,57.9,OpenPlay,,,Sadio Mané
+465,Pass,34,49,109915,26,Successful,92.7,85.3,79.6,73,OpenPlay,4511.0,James Milner,Sadio Mané
+466,Pass,34,51,4511,26,Successful,84.4,70.2,86.4,86.5,OpenPlay,115726.0,Andrew Robertson,James Milner
+467,Pass,34,54,115726,26,Unsuccessful,91.7,85.3,91.5,0,OpenPlay,,,Andrew Robertson
+468,Pass,35,30,297403,13,Successful,14.6,100.0,22.6,97.1,ThrowIn,44120.0,Pierre-Emerick Aubameyang,Kieran Tierney
+469,Pass,35,31,44120,13,Successful,22.6,97.1,15.1,97.7,OpenPlay,297403.0,Kieran Tierney,Pierre-Emerick Aubameyang
+470,Pass,35,32,297403,13,Unsuccessful,16.0,96.0,36.9,87.4,OpenPlay,,,Kieran Tierney
+471,Pass,35,35,115916,26,Successful,67.4,20.7,64.8,30.1,OpenPlay,4511.0,James Milner,Fabinho
+472,Pass,35,37,4511,26,Successful,65.7,26.2,85.3,7.3,OpenPlay,386969.0,Neco Williams,James Milner
+473,Pass,35,43,386969,26,Unsuccessful,93.0,14.5,96.6,53.4,OpenPlay,,,Neco Williams
+474,Pass,35,50,109915,26,Successful,91.7,88.0,90.4,67.6,OpenPlay,108226.0,Mohamed Salah,Sadio Mané
+475,Pass,35,52,108226,26,Successful,89.1,71.4,80.7,86.8,OpenPlay,115726.0,Andrew Robertson,Mohamed Salah
+476,Pass,35,54,115726,26,Successful,79.2,85.4,73.3,75.4,OpenPlay,4511.0,James Milner,Andrew Robertson
+477,Pass,35,56,4511,26,Successful,73.1,74.4,71.6,47.6,OpenPlay,102248.0,Emiliano Martínez,James Milner
+478,Pass,36,30,102248,13,Successful,4.4,51.6,11.5,61.4,OpenPlay,89401.0,Granit Xhaka,Emiliano Martínez
+479,Pass,36,31,89401,13,Successful,11.5,61.4,1.9,43.9,OpenPlay,102248.0,Emiliano Martínez,Granit Xhaka
+480,Pass,36,33,102248,13,Successful,2.3,44.7,2,25.8,OpenPlay,288795.0,Rob Holding,Emiliano Martínez
+481,Pass,36,34,288795,13,Successful,2.4,24.8,15.4,1.9,OpenPlay,115726.0,Andrew Robertson,Rob Holding
+482,Pass,36,44,115726,26,Successful,72.1,100.0,79.6,94,ThrowIn,125209.0,Mohamed Elneny,Andrew Robertson
+483,Pass,36,48,125209,13,Successful,9.6,4.4,7.5,12.4,OpenPlay,288795.0,Rob Holding,Mohamed Elneny
+484,Pass,36,50,288795,13,Unsuccessful,8.0,10.1,9.2,9.1,OpenPlay,,,Rob Holding
+485,Pass,37,31,102248,13,Unsuccessful,4.0,55.0,67.8,57.1,OpenPlay,,,Emiliano Martínez
+486,Pass,37,35,95408,26,Unsuccessful,31.3,43.7,36.6,30.3,OpenPlay,,,Virgil van Dijk
+487,Pass,37,38,115916,26,Unsuccessful,31.9,24.6,33.3,23.5,OpenPlay,,,Fabinho
+488,Pass,37,41,89401,13,Successful,64.0,76.9,65,92.5,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Granit Xhaka
+489,Pass,37,41,44120,13,Successful,64.5,91.1,37.3,96.9,OpenPlay,297403.0,Kieran Tierney,Pierre-Emerick Aubameyang
+490,Pass,37,44,297403,13,Successful,38.5,97.9,14.8,62.7,OpenPlay,102248.0,Emiliano Martínez,Kieran Tierney
+491,Pass,37,47,102248,13,Successful,14.2,61.2,20.3,73.4,OpenPlay,27586.0,David Luiz,Emiliano Martínez
+492,Pass,37,50,27586,13,Successful,20.7,73.1,9.6,53.4,OpenPlay,102248.0,Emiliano Martínez,David Luiz
+493,Pass,37,54,102248,13,Successful,8.6,47.5,6.5,24.5,OpenPlay,288795.0,Rob Holding,Emiliano Martínez
+494,Pass,37,56,288795,13,Successful,7.0,27.2,4.1,50.6,OpenPlay,102248.0,Emiliano Martínez,Rob Holding
+495,Pass,37,59,102248,13,Successful,4.1,51.6,2.7,67.5,OpenPlay,27586.0,David Luiz,Emiliano Martínez
+496,Pass,38,1,27586,13,Successful,3.5,69.3,19.6,98.3,OpenPlay,297403.0,Kieran Tierney,David Luiz
+497,Pass,38,4,297403,13,Successful,21.7,96.9,24,76.4,OpenPlay,89401.0,Granit Xhaka,Kieran Tierney
+498,Pass,38,7,89401,13,Successful,29.9,76.3,29.9,56.1,OpenPlay,125209.0,Mohamed Elneny,Granit Xhaka
+499,Pass,38,8,125209,13,Successful,29.9,55.5,20.4,68.4,OpenPlay,27586.0,David Luiz,Mohamed Elneny
+500,Pass,38,13,27586,13,Unsuccessful,21.2,65.1,36.2,74.6,OpenPlay,,,David Luiz
+501,Pass,38,15,33568,26,Successful,60.8,28.1,71.5,25.6,OpenPlay,108226.0,Mohamed Salah,Georginio Wijnaldum
+502,Pass,38,17,108226,26,Successful,74.0,29.2,74.5,53.4,OpenPlay,4511.0,James Milner,Mohamed Salah
+503,Pass,38,19,4511,26,Successful,74.7,55.5,70.8,46.4,OpenPlay,33568.0,Georginio Wijnaldum,James Milner
+504,Pass,38,21,33568,26,Successful,70.8,46.4,74.8,35.8,OpenPlay,108226.0,Mohamed Salah,Georginio Wijnaldum
+505,Pass,38,24,108226,26,Successful,73.7,46.6,92.8,73.5,OpenPlay,115726.0,Andrew Robertson,Mohamed Salah
+506,Pass,38,26,115726,26,Unsuccessful,95.7,73.8,96,57.9,OpenPlay,,,Andrew Robertson
+507,Pass,38,56,115726,26,Unsuccessful,99.5,99.5,92.5,52.4,CornerTaken,,,Andrew Robertson
+508,Pass,39,2,4511,26,Successful,78.8,95.2,91.7,93.8,OpenPlay,115726.0,Andrew Robertson,James Milner
+509,Pass,39,4,115726,26,Unsuccessful,94.0,88.6,96.2,68,OpenPlay,,,Andrew Robertson
+510,Pass,39,18,115726,26,Successful,99.5,99.5,89.4,93.5,CornerTaken,4511.0,James Milner,Andrew Robertson
+511,Pass,39,19,4511,26,Successful,90.5,93.6,75.6,83.7,OpenPlay,115916.0,Fabinho,James Milner
+512,Pass,39,22,115916,26,Successful,74.3,81.7,61.1,60,OpenPlay,136451.0,Joseph Gomez,Fabinho
+513,Pass,39,26,136451,26,Successful,61.1,60.0,65.3,26.5,OpenPlay,386969.0,Neco Williams,Joseph Gomez
+514,Pass,39,28,386969,26,Unsuccessful,66.1,26.7,89.7,55.8,OpenPlay,,,Neco Williams
+515,Pass,39,33,4511,26,Successful,81.9,68.8,84.9,59.2,OpenPlay,115726.0,Andrew Robertson,James Milner
+516,Pass,39,50,115726,26,Successful,99.5,99.5,96.9,69.6,CornerTaken,115916.0,Fabinho,Andrew Robertson
+517,Pass,39,57,115916,26,Successful,75.9,79.1,86.3,93.8,OpenPlay,115726.0,Andrew Robertson,Fabinho
+518,Pass,40,0,115726,26,Successful,89.3,94.4,92.2,56.7,OpenPlay,102248.0,Emiliano Martínez,Andrew Robertson
+519,Pass,40,39,102248,13,Successful,4.4,56.5,59.1,82.4,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Emiliano Martínez
+520,Pass,40,43,44120,13,Unsuccessful,57.6,81.8,66.5,71.1,OpenPlay,,,Pierre-Emerick Aubameyang
+521,Pass,40,44,95408,26,Unsuccessful,32.3,29.3,70.1,31.2,OpenPlay,,,Virgil van Dijk
+522,Pass,40,48,27586,13,Successful,29.6,68.4,44.6,7.7,OpenPlay,125211.0,Héctor Bellerín,David Luiz
+523,Pass,40,53,125211,13,Successful,46.7,7.3,53.3,14.8,OpenPlay,367185.0,Bukayo Saka,Héctor Bellerín
+524,Pass,40,57,367185,13,Successful,54.4,27.1,48.5,21.8,OpenPlay,125209.0,Mohamed Elneny,Bukayo Saka
+525,Pass,40,59,125209,13,Successful,49.7,20.2,61.5,5.6,OpenPlay,125211.0,Héctor Bellerín,Mohamed Elneny
+526,Pass,41,2,125211,13,Successful,57.1,6.8,53.4,11.9,OpenPlay,125209.0,Mohamed Elneny,Héctor Bellerín
+527,Pass,41,3,125209,13,Successful,53.6,14.0,45.3,41.3,OpenPlay,89401.0,Granit Xhaka,Mohamed Elneny
+528,Pass,41,6,89401,13,Successful,44.8,43.4,71.5,98.3,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Granit Xhaka
+529,Pass,41,12,44120,13,Successful,83.5,93.4,97.7,75.4,OpenPlay,255169.0,Ainsley Maitland-Niles,Pierre-Emerick Aubameyang
+530,Pass,41,14,255169,13,Unsuccessful,97.6,76.5,97.3,33,OpenPlay,,,Ainsley Maitland-Niles
+531,Pass,41,38,125211,13,Successful,88.3,0.0,84.3,7.3,ThrowIn,125209.0,Mohamed Elneny,Héctor Bellerín
+532,Pass,41,43,125209,13,Successful,94.2,2.8,88.6,1.9,OpenPlay,125211.0,Héctor Bellerín,Mohamed Elneny
+533,Pass,41,47,125211,13,Successful,86.9,25.0,72.7,30.3,OpenPlay,89401.0,Granit Xhaka,Héctor Bellerín
+534,Pass,41,49,89401,13,Successful,73.1,32.0,70.4,60.8,OpenPlay,297403.0,Kieran Tierney,Granit Xhaka
+535,Pass,41,51,297403,13,Successful,71.8,59.0,83.1,84.6,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Kieran Tierney
+536,Pass,41,55,44120,13,Successful,85.2,75.5,81.8,61.4,OpenPlay,367185.0,Bukayo Saka,Pierre-Emerick Aubameyang
+537,Pass,42,33,367185,13,Unsuccessful,99.6,0.3,91.9,51.5,CornerTaken,,,Bukayo Saka
+538,Pass,42,39,125211,13,Successful,65.7,55.0,64.4,65.8,OpenPlay,255169.0,Ainsley Maitland-Niles,Héctor Bellerín
+539,Pass,42,40,255169,13,Successful,63.1,63.9,43.2,74.2,OpenPlay,386969.0,Neco Williams,Ainsley Maitland-Niles
+540,Pass,43,8,386969,26,Unsuccessful,34.5,12.2,86.2,47.4,OpenPlay,,,Neco Williams
+541,Pass,43,11,102248,13,Successful,14.8,50.3,23.2,17.8,OpenPlay,125211.0,Héctor Bellerín,Emiliano Martínez
+542,Pass,43,18,125211,13,Successful,40.0,32.8,33.6,49.1,OpenPlay,89401.0,Granit Xhaka,Héctor Bellerín
+543,Pass,43,21,89401,13,Successful,37.4,49.3,38.7,82.1,OpenPlay,297403.0,Kieran Tierney,Granit Xhaka
+544,Pass,43,24,297403,13,Successful,42.8,84.2,60.4,97.8,OpenPlay,367185.0,Bukayo Saka,Kieran Tierney
+545,Pass,43,56,367185,13,Successful,68.5,88.0,87.9,70.5,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Bukayo Saka
+546,Pass,43,58,44120,13,Unsuccessful,88.0,70.9,81.1,44.5,OpenPlay,,,Pierre-Emerick Aubameyang
+547,Pass,44,4,297403,13,Successful,59.8,50.7,73.9,79.8,OpenPlay,367185.0,Bukayo Saka,Kieran Tierney
+548,Pass,44,10,367185,13,Unsuccessful,90.0,81.4,91.9,29.9,OpenPlay,,,Bukayo Saka
+549,Pass,44,16,27586,13,Successful,90.9,3.6,73.2,9.7,OpenPlay,125211.0,Héctor Bellerín,David Luiz
+550,Pass,44,18,125211,13,Successful,73.3,9.2,75.3,17.8,OpenPlay,125209.0,Mohamed Elneny,Héctor Bellerín
+551,Pass,44,20,125209,13,Successful,77.1,15.2,82.2,3.4,OpenPlay,27586.0,David Luiz,Mohamed Elneny
+552,Pass,44,22,27586,13,Unsuccessful,82.0,3.4,85.1,7.4,OpenPlay,,,David Luiz
+553,Pass,44,49,125211,13,Successful,85.9,0.0,92.1,5.8,ThrowIn,367185.0,Bukayo Saka,Héctor Bellerín
+554,Pass,44,52,367185,13,Successful,90.8,5.3,85.4,2.9,OpenPlay,367185.0,Bukayo Saka,Bukayo Saka
+555,Pass,45,33,367185,13,Unsuccessful,78.5,9.1,90.5,42.1,OpenPlay,,,Bukayo Saka
+556,Pass,45,37,109915,26,Unsuccessful,19.9,76.4,56.4,100,OpenPlay,,,Sadio Mané
+557,Pass,45,58,125211,13,Successful,43.7,0.0,40.3,25,ThrowIn,89401.0,Granit Xhaka,Héctor Bellerín
+558,Pass,46,0,89401,13,Unsuccessful,41.2,24.8,60.8,16.3,OpenPlay,,,Granit Xhaka
+559,Pass,45,0,345845,13,Successful,49.9,50.0,29.6,46.7,OpenPlay,27586.0,David Luiz,Eddie Nketiah
+560,Pass,45,3,27586,13,Unsuccessful,29.6,46.7,78.7,68.1,OpenPlay,,,David Luiz
+561,Pass,45,7,136451,26,Unsuccessful,20.8,31.2,29.9,44.5,OpenPlay,,,Joseph Gomez
+562,Pass,45,9,125209,13,Unsuccessful,68.2,55.3,70.1,54.6,OpenPlay,,,Mohamed Elneny
+563,Pass,45,10,109915,26,Successful,34.8,57.1,27.8,50.5,OpenPlay,115916.0,Fabinho,Sadio Mané
+564,Pass,45,11,115916,26,Successful,28.3,51.3,25.5,89.6,OpenPlay,115726.0,Andrew Robertson,Fabinho
+565,Pass,45,18,115726,26,Successful,39.0,97.5,58.5,83.3,OpenPlay,125209.0,Mohamed Elneny,Andrew Robertson
+566,Pass,45,21,125209,13,Successful,44.7,16.7,54.4,12.1,OpenPlay,367185.0,Bukayo Saka,Mohamed Elneny
+567,Pass,45,22,367185,13,Successful,54.8,12.8,34.2,20.2,OpenPlay,288795.0,Rob Holding,Bukayo Saka
+568,Pass,45,25,288795,13,Successful,33.6,21.3,29.9,27.4,OpenPlay,27586.0,David Luiz,Rob Holding
+569,Pass,45,26,27586,13,Successful,27.0,26.0,11.9,45.1,OpenPlay,102248.0,Emiliano Martínez,David Luiz
+570,Pass,45,32,102248,13,Unsuccessful,13.7,46.4,45.7,31.7,OpenPlay,,,Emiliano Martínez
+571,Pass,45,34,95408,26,Unsuccessful,54.6,67.3,66.6,100,OpenPlay,,,Virgil van Dijk
+572,Pass,45,47,125211,13,Successful,34.2,0.0,31.4,15.5,ThrowIn,367185.0,Bukayo Saka,Héctor Bellerín
+573,Pass,45,48,367185,13,Successful,31.4,15.5,22.5,66.8,OpenPlay,297403.0,Kieran Tierney,Bukayo Saka
+574,Pass,45,51,297403,13,Successful,23.1,68.8,40.9,68.8,OpenPlay,255169.0,Ainsley Maitland-Niles,Kieran Tierney
+575,Pass,45,54,255169,13,Successful,37.9,66.0,33.6,54.2,OpenPlay,89401.0,Granit Xhaka,Ainsley Maitland-Niles
+576,Pass,45,56,89401,13,Successful,35.2,49.9,38.2,40.2,OpenPlay,125209.0,Mohamed Elneny,Granit Xhaka
+577,Pass,45,57,125209,13,Successful,38.2,40.4,27.9,52.2,OpenPlay,27586.0,David Luiz,Mohamed Elneny
+578,Pass,45,59,27586,13,Successful,28.6,50.4,29.3,25.6,OpenPlay,288795.0,Rob Holding,David Luiz
+579,Pass,46,3,288795,13,Successful,27.4,25.0,23.3,49.9,OpenPlay,27586.0,David Luiz,Rob Holding
+580,Pass,46,6,27586,13,Successful,23.3,50.6,21.3,85.4,OpenPlay,297403.0,Kieran Tierney,David Luiz
+581,Pass,46,11,297403,13,Successful,35.1,91.4,39.6,64.4,OpenPlay,89401.0,Granit Xhaka,Kieran Tierney
+582,Pass,46,14,89401,13,Successful,41.7,56.1,34.7,24.8,OpenPlay,288795.0,Rob Holding,Granit Xhaka
+583,Pass,46,18,288795,13,Successful,47.1,16.1,54.8,1.7,OpenPlay,125211.0,Héctor Bellerín,Rob Holding
+584,Pass,46,20,125211,13,Unsuccessful,56.1,2.5,64,0,OpenPlay,,,Héctor Bellerín
+585,Pass,46,34,115726,26,Successful,31.5,100.0,6.8,66.3,ThrowIn,95408.0,Virgil van Dijk,Andrew Robertson
+586,Pass,46,38,95408,26,Successful,6.8,66.3,2.7,30,OpenPlay,114147.0,Alisson,Virgil van Dijk
+587,Pass,46,41,114147,26,Successful,2.7,30.0,14.6,6.1,OpenPlay,386969.0,Neco Williams,Alisson
+588,Pass,46,43,386969,26,Unsuccessful,16.1,5.0,72.2,35.7,OpenPlay,,,Neco Williams
+589,Pass,46,56,109915,26,Successful,66.7,67.4,67.1,49.1,OpenPlay,33568.0,Georginio Wijnaldum,Sadio Mané
+590,Pass,46,58,33568,26,Successful,66.7,48.5,66.7,58.3,OpenPlay,109915.0,Sadio Mané,Georginio Wijnaldum
+591,Pass,47,2,109915,26,Successful,67.0,60.0,66.3,45.4,OpenPlay,33568.0,Georginio Wijnaldum,Sadio Mané
+592,Pass,47,7,33568,26,Successful,67.3,45.4,59.6,41,OpenPlay,136451.0,Joseph Gomez,Georginio Wijnaldum
+593,Pass,47,9,136451,26,Successful,60.1,41.0,53.7,65.1,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+594,Pass,47,11,95408,26,Successful,54.0,67.8,59.3,94.8,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+595,Pass,47,15,115726,26,Successful,58.8,95.6,48.7,70.5,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+596,Pass,47,17,95408,26,Successful,51.0,70.9,57.6,97.1,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+597,Pass,47,20,115726,26,Unsuccessful,59.7,95.8,84.8,54.6,OpenPlay,,,Andrew Robertson
+598,Pass,47,33,102248,13,Successful,13.3,46.4,11.5,60.3,OpenPlay,27586.0,David Luiz,Emiliano Martínez
+599,Pass,47,38,27586,13,Successful,10.4,51.8,8.1,23,OpenPlay,288795.0,Rob Holding,David Luiz
+600,Pass,47,40,288795,13,Successful,8.1,22.3,20.2,27.7,OpenPlay,125209.0,Mohamed Elneny,Rob Holding
+601,Pass,47,41,125209,13,Successful,21.2,26.8,23.9,6.6,OpenPlay,125211.0,Héctor Bellerín,Mohamed Elneny
+602,Pass,47,45,125211,13,Unsuccessful,32.0,7.3,41.5,6.2,OpenPlay,,,Héctor Bellerín
+603,Pass,47,45,115726,26,Successful,57.4,93.6,64.7,94.4,OpenPlay,115726.0,Andrew Robertson,Andrew Robertson
+604,Pass,47,53,115726,26,Successful,66.1,96.2,62,89.6,OpenPlay,4511.0,James Milner,Andrew Robertson
+605,Pass,47,54,4511,26,Successful,63.5,90.7,63.8,72.6,OpenPlay,115916.0,Fabinho,James Milner
+606,Pass,47,57,115916,26,Successful,65.7,76.7,61.3,84.7,OpenPlay,4511.0,James Milner,Fabinho
+607,Pass,48,1,4511,26,Successful,61.3,84.7,68.6,95.3,OpenPlay,115726.0,Andrew Robertson,James Milner
+608,Pass,48,7,115726,26,Unsuccessful,96.7,96.0,89.9,54.6,OpenPlay,,,Andrew Robertson
+609,Pass,48,10,44120,13,Unsuccessful,19.8,51.9,42.4,56.4,OpenPlay,,,Pierre-Emerick Aubameyang
+610,Pass,48,15,136451,26,Successful,59.4,39.6,57.3,66.8,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+611,Pass,48,17,95408,26,Successful,55.8,66.7,60,92.3,OpenPlay,4511.0,James Milner,Virgil van Dijk
+612,Pass,48,20,4511,26,Successful,61.5,91.7,74.4,95.8,OpenPlay,115726.0,Andrew Robertson,James Milner
+613,Pass,48,22,115726,26,Successful,72.4,95.7,67.7,87.7,OpenPlay,109915.0,Sadio Mané,Andrew Robertson
+614,Pass,48,28,109915,26,Successful,68.0,86.5,70.7,96.2,OpenPlay,115726.0,Andrew Robertson,Sadio Mané
+615,Pass,48,31,115726,26,Successful,67.0,94.1,55.5,68.7,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+616,Pass,48,34,95408,26,Successful,53.0,57.8,53.4,42.7,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+617,Pass,48,38,136451,26,Successful,56.4,37.9,72,47,OpenPlay,96182.0,Roberto Firmino,Joseph Gomez
+618,Pass,48,40,96182,26,Successful,70.2,45.2,74.9,38.8,OpenPlay,27586.0,David Luiz,Roberto Firmino
+619,Pass,48,43,27586,13,Unsuccessful,21.6,62.4,50.9,94.8,OpenPlay,,,David Luiz
+620,Pass,48,47,136451,26,Successful,38.2,3.4,18.4,28.3,OpenPlay,114147.0,Alisson,Joseph Gomez
+621,Pass,48,50,114147,26,Successful,19.0,28.9,25.4,43.3,OpenPlay,95408.0,Virgil van Dijk,Alisson
+622,Pass,48,54,95408,26,Successful,29.4,43.7,30.8,28.9,OpenPlay,136451.0,Joseph Gomez,Virgil van Dijk
+623,Pass,48,58,136451,26,Successful,32.8,26.7,26.9,46.9,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+624,Pass,49,0,95408,26,Successful,26.7,50.6,29.9,78.4,OpenPlay,4511.0,James Milner,Virgil van Dijk
+625,Pass,49,4,4511,26,Successful,31.0,74.7,34.3,97.4,OpenPlay,115726.0,Andrew Robertson,James Milner
+626,Pass,49,7,115726,26,Successful,35.1,96.5,29.4,80.5,OpenPlay,4511.0,James Milner,Andrew Robertson
+627,Pass,49,13,4511,26,Successful,32.4,64.2,36.7,42.5,OpenPlay,33568.0,Georginio Wijnaldum,James Milner
+628,Pass,49,14,33568,26,Successful,36.6,42.1,32.2,18,OpenPlay,136451.0,Joseph Gomez,Georginio Wijnaldum
+629,Pass,49,18,136451,26,Successful,35.6,15.5,58.3,21.5,OpenPlay,108226.0,Mohamed Salah,Joseph Gomez
+630,Pass,49,19,108226,26,Successful,57.0,21.3,63.4,33.8,OpenPlay,109915.0,Sadio Mané,Mohamed Salah
+631,Pass,49,20,109915,26,Unsuccessful,63.5,33.4,60.3,38.8,OpenPlay,,,Sadio Mané
+632,Pass,49,45,27586,13,Unsuccessful,46.2,56.1,68.9,68.8,OpenPlay,,,David Luiz
+633,Pass,49,46,386969,26,Successful,28.6,29.3,36.8,35.7,OpenPlay,33568.0,Georginio Wijnaldum,Neco Williams
+634,Pass,49,47,33568,26,Successful,35.5,34.7,44,39.8,OpenPlay,89401.0,Granit Xhaka,Georginio Wijnaldum
+635,Pass,49,49,89401,13,Successful,54.1,65.8,38.5,69.7,OpenPlay,27586.0,David Luiz,Granit Xhaka
+636,Pass,49,51,27586,13,Unsuccessful,37.7,68.6,46,69.7,OpenPlay,,,David Luiz
+637,Pass,49,53,33568,26,Successful,55.1,31.8,62.7,39.2,OpenPlay,96182.0,Roberto Firmino,Georginio Wijnaldum
+638,Pass,49,55,96182,26,Unsuccessful,64.4,40.8,74.2,37.1,OpenPlay,,,Roberto Firmino
+639,Pass,49,57,27586,13,Successful,25.1,62.7,31.7,68.3,OpenPlay,89401.0,Granit Xhaka,David Luiz
+640,Pass,49,58,89401,13,Successful,31.7,68.3,22.5,81.6,OpenPlay,255169.0,Ainsley Maitland-Niles,Granit Xhaka
+641,Pass,50,2,255169,13,Successful,23.3,75.6,25.6,60.2,OpenPlay,125209.0,Mohamed Elneny,Ainsley Maitland-Niles
+642,Pass,50,4,125209,13,Successful,26.2,55.9,15.7,40.8,OpenPlay,288795.0,Rob Holding,Mohamed Elneny
+643,Pass,50,5,288795,13,Successful,15.0,40.9,29.8,15.4,OpenPlay,125211.0,Héctor Bellerín,Rob Holding
+644,Pass,50,9,125211,13,Successful,48.4,10.7,62,26.6,OpenPlay,345845.0,Eddie Nketiah,Héctor Bellerín
+645,Pass,50,11,345845,13,Successful,63.4,26.8,64.6,10.9,OpenPlay,367185.0,Bukayo Saka,Eddie Nketiah
+646,Pass,50,17,367185,13,Successful,70.7,37.7,73,59.1,OpenPlay,89401.0,Granit Xhaka,Bukayo Saka
+647,Pass,50,17,89401,13,Successful,73.7,62.4,75,67.4,OpenPlay,114147.0,Alisson,Granit Xhaka
+648,Pass,50,25,114147,26,Successful,3.1,60.9,15.9,81.8,OpenPlay,115726.0,Andrew Robertson,Alisson
+649,Pass,50,27,115726,26,Successful,19.9,89.0,56.8,96.2,OpenPlay,4511.0,James Milner,Andrew Robertson
+650,Pass,50,32,4511,26,Successful,58.5,96.4,65.1,83.3,OpenPlay,109915.0,Sadio Mané,James Milner
+651,Pass,50,34,109915,26,Successful,66.1,80.8,66.5,69.5,OpenPlay,102248.0,Emiliano Martínez,Sadio Mané
+652,Pass,50,57,102248,13,Successful,2.8,53.2,9.1,24.2,OpenPlay,288795.0,Rob Holding,Emiliano Martínez
+653,Pass,50,58,288795,13,Successful,11.8,25.8,3.8,50.3,OpenPlay,102248.0,Emiliano Martínez,Rob Holding
+654,Pass,51,3,102248,13,Successful,4.3,50.1,3.7,62.7,OpenPlay,27586.0,David Luiz,Emiliano Martínez
+655,Pass,51,7,27586,13,Unsuccessful,6.8,55.1,52.1,14.2,OpenPlay,,,David Luiz
+656,Pass,51,10,115726,26,Unsuccessful,45.9,84.4,59.5,82.4,OpenPlay,,,Andrew Robertson
+657,Pass,51,17,345845,13,Successful,55.9,43.9,69.5,78.9,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Eddie Nketiah
+658,Pass,51,22,44120,13,Unsuccessful,89.7,75.4,97.2,0,OpenPlay,,,Pierre-Emerick Aubameyang
+659,Pass,51,51,115726,26,Successful,4.9,100.0,9.6,96.3,ThrowIn,109915.0,Sadio Mané,Andrew Robertson
+660,Pass,51,52,109915,26,Successful,9.6,96.3,4.4,98.6,OpenPlay,115726.0,Andrew Robertson,Sadio Mané
+661,Pass,51,53,115726,26,Unsuccessful,4.4,98.6,52,90,OpenPlay,,,Andrew Robertson
+662,Pass,52,8,96182,26,Successful,56.8,100.0,58.9,92.7,ThrowIn,109915.0,Sadio Mané,Roberto Firmino
+663,Pass,52,9,109915,26,Successful,60.4,91.9,61.1,97.5,OpenPlay,96182.0,Roberto Firmino,Sadio Mané
+664,Pass,52,10,96182,26,Successful,61.1,97.5,57.1,84.9,OpenPlay,115916.0,Fabinho,Roberto Firmino
+665,Pass,52,12,115916,26,Successful,56.0,86.1,54.1,96.4,OpenPlay,115726.0,Andrew Robertson,Fabinho
+666,Pass,52,13,115726,26,Successful,54.3,95.0,45,70.1,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+667,Pass,52,18,95408,26,Successful,46.0,58.7,46.4,78.2,OpenPlay,4511.0,James Milner,Virgil van Dijk
+668,Pass,52,20,4511,26,Successful,46.4,78.2,61.3,97.2,OpenPlay,115726.0,Andrew Robertson,James Milner
+669,Pass,52,23,115726,26,Successful,62.6,96.9,59.2,87.1,OpenPlay,4511.0,James Milner,Andrew Robertson
+670,Pass,52,26,4511,26,Successful,60.2,83.0,73.5,70,OpenPlay,108226.0,Mohamed Salah,James Milner
+671,Pass,52,28,108226,26,Unsuccessful,73.5,70.0,78.6,70.5,OpenPlay,,,Mohamed Salah
+672,Pass,52,29,288795,13,Successful,21.4,36.4,8,73.1,OpenPlay,255169.0,Ainsley Maitland-Niles,Rob Holding
+673,Pass,52,32,255169,13,Unsuccessful,7.9,73.1,42.5,62.6,OpenPlay,,,Ainsley Maitland-Niles
+674,Pass,52,35,95408,26,Successful,57.0,37.5,74.8,38.2,OpenPlay,108226.0,Mohamed Salah,Virgil van Dijk
+675,Pass,52,38,108226,26,Successful,72.1,36.3,77.8,19,OpenPlay,386969.0,Neco Williams,Mohamed Salah
+676,Pass,52,41,386969,26,Successful,76.7,23.6,74.8,34.5,OpenPlay,108226.0,Mohamed Salah,Neco Williams
+677,Pass,52,42,108226,26,Successful,74.8,34.5,77.2,54.2,OpenPlay,109915.0,Sadio Mané,Mohamed Salah
+678,Pass,52,43,109915,26,Successful,77.2,54.2,74.4,51.3,OpenPlay,4511.0,James Milner,Sadio Mané
+679,Pass,52,46,4511,26,Successful,74.3,50.9,72.8,38.2,OpenPlay,115916.0,Fabinho,James Milner
+680,Pass,52,48,115916,26,Successful,72.7,34.0,79.9,33.4,OpenPlay,33568.0,Georginio Wijnaldum,Fabinho
+681,Pass,52,48,33568,26,Successful,79.5,33.4,84.8,18.6,OpenPlay,115916.0,Fabinho,Georginio Wijnaldum
+682,Pass,52,53,115916,26,Unsuccessful,94.4,6.6,94.3,8.5,OpenPlay,,,Fabinho
+683,Pass,53,23,4511,26,Successful,99.3,0.5,91.3,50.1,CornerTaken,102248.0,Emiliano Martínez,James Milner
+684,Pass,54,1,102248,13,Unsuccessful,4.7,54.9,58.1,87.3,OpenPlay,,,Emiliano Martínez
+685,Pass,54,5,136451,26,Successful,40.5,13.2,59.6,23.1,OpenPlay,96182.0,Roberto Firmino,Joseph Gomez
+686,Pass,54,9,96182,26,Unsuccessful,66.1,24.2,67.5,22.9,OpenPlay,,,Roberto Firmino
+687,Pass,54,10,255169,13,Successful,35.8,86.3,29.7,82.7,OpenPlay,297403.0,Kieran Tierney,Ainsley Maitland-Niles
+688,Pass,54,13,297403,13,Successful,28.2,91.7,44.7,89,OpenPlay,386969.0,Neco Williams,Kieran Tierney
+689,Pass,54,16,386969,26,Successful,56.6,4.1,67.5,18.3,OpenPlay,96182.0,Roberto Firmino,Neco Williams
+690,Pass,54,19,96182,26,Successful,68.6,14.7,69.8,3.4,OpenPlay,108226.0,Mohamed Salah,Roberto Firmino
+691,Pass,54,20,108226,26,Successful,69.8,3.4,66.7,22.4,OpenPlay,33568.0,Georginio Wijnaldum,Mohamed Salah
+692,Pass,54,21,33568,26,Successful,66.7,22.4,66.4,18.3,OpenPlay,386969.0,Neco Williams,Georginio Wijnaldum
+693,Pass,54,24,386969,26,Successful,68.0,28.8,55.4,48.7,OpenPlay,95408.0,Virgil van Dijk,Neco Williams
+694,Pass,54,27,95408,26,Successful,56.6,50.4,65,95.7,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+695,Pass,54,36,115726,26,Successful,64.1,92.3,59.9,63.6,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Andrew Robertson
+696,Pass,54,50,44120,13,Unsuccessful,69.5,72.1,83.8,36.9,OpenPlay,,,Pierre-Emerick Aubameyang
+697,Pass,54,52,115726,26,Successful,15.5,65.2,4.2,50.4,OpenPlay,114147.0,Alisson,Andrew Robertson
+698,Pass,54,54,114147,26,Successful,4.2,50.4,22.5,60.5,OpenPlay,115916.0,Fabinho,Alisson
+699,Pass,54,57,115916,26,Successful,22.5,60.5,29.6,69.6,OpenPlay,4511.0,James Milner,Fabinho
+700,Pass,54,58,4511,26,Successful,30.1,69.4,14.1,52.7,OpenPlay,114147.0,Alisson,James Milner
+701,Pass,55,2,114147,26,Successful,14.1,52.7,20.6,36,OpenPlay,136451.0,Joseph Gomez,Alisson
+702,Pass,55,9,136451,26,Successful,29.7,39.1,28.6,62.7,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+703,Pass,55,12,95408,26,Successful,33.5,68.4,36.2,89.8,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+704,Pass,55,15,115726,26,Successful,40.5,91.7,85.6,68.8,OpenPlay,102248.0,Emiliano Martínez,Andrew Robertson
+705,Pass,55,46,102248,13,Unsuccessful,13.7,42.3,66.7,35.7,OpenPlay,,,Emiliano Martínez
+706,Pass,55,51,95408,26,Successful,32.3,64.8,42,94.2,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+707,Pass,55,55,115726,26,Unsuccessful,43.5,94.7,87.4,74.4,OpenPlay,,,Andrew Robertson
+708,Pass,55,59,102248,13,Successful,12.2,27.0,26.4,14.5,OpenPlay,288795.0,Rob Holding,Emiliano Martínez
+709,Pass,56,3,288795,13,Successful,28.6,11.5,32.4,1.6,OpenPlay,125211.0,Héctor Bellerín,Rob Holding
+710,Pass,56,6,125211,13,Successful,31.3,4.6,23.7,4.3,OpenPlay,288795.0,Rob Holding,Héctor Bellerín
+711,Pass,56,8,288795,13,Successful,22.6,6.2,7.4,52.4,OpenPlay,27586.0,David Luiz,Rob Holding
+712,Pass,56,13,27586,13,Successful,4.9,57.2,12.9,18.7,OpenPlay,288795.0,Rob Holding,David Luiz
+713,Pass,56,16,288795,13,Successful,13.2,17.5,22.4,2.3,OpenPlay,125211.0,Héctor Bellerín,Rob Holding
+714,Pass,56,19,125211,13,Successful,21.3,3.2,13.9,22.3,OpenPlay,288795.0,Rob Holding,Héctor Bellerín
+715,Pass,56,23,288795,13,Successful,14.5,22.4,3,48.8,OpenPlay,102248.0,Emiliano Martínez,Rob Holding
+716,Pass,56,26,102248,13,Successful,2.9,49.6,6.8,75.6,OpenPlay,27586.0,David Luiz,Emiliano Martínez
+717,Pass,56,30,27586,13,Successful,7.1,74.4,3.5,56.1,OpenPlay,102248.0,Emiliano Martínez,David Luiz
+718,Pass,56,32,102248,13,Successful,3.5,56.0,10.3,51.3,OpenPlay,125209.0,Mohamed Elneny,Emiliano Martínez
+719,Pass,56,33,125209,13,Successful,10.3,51.3,8.2,22.9,OpenPlay,288795.0,Rob Holding,Mohamed Elneny
+720,Pass,56,35,288795,13,Successful,9.6,21.7,35.9,34.4,OpenPlay,27586.0,David Luiz,Rob Holding
+721,Pass,57,7,27586,13,Unsuccessful,32.6,39.0,75.1,25.4,OpenPlay,,,David Luiz
+722,Pass,57,9,115726,26,Successful,23.4,74.8,2.8,69.9,OpenPlay,114147.0,Alisson,Andrew Robertson
+723,Pass,57,15,114147,26,Successful,8.7,59.2,15,48.5,OpenPlay,136451.0,Joseph Gomez,Alisson
+724,Pass,57,18,136451,26,Successful,15.1,47.6,20.1,68.8,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+725,Pass,57,22,95408,26,Successful,20.2,64.9,72.1,18.2,OpenPlay,108226.0,Mohamed Salah,Virgil van Dijk
+726,Pass,57,28,108226,26,Unsuccessful,73.4,11.6,62.5,0,OpenPlay,,,Mohamed Salah
+727,Pass,59,8,297403,13,Successful,42.3,100.0,70.4,91.3,ThrowIn,44120.0,Pierre-Emerick Aubameyang,Kieran Tierney
+728,Pass,59,10,44120,13,Unsuccessful,70.2,91.7,71.7,80.6,OpenPlay,,,Pierre-Emerick Aubameyang
+729,Pass,59,11,95408,26,Unsuccessful,25.5,18.8,45.4,3.8,OpenPlay,,,Virgil van Dijk
+730,Pass,59,14,297403,13,Unsuccessful,54.3,96.4,60.7,92.9,OpenPlay,,,Kieran Tierney
+731,Pass,59,16,33568,26,Successful,38.3,6.6,45.4,12,OpenPlay,96182.0,Roberto Firmino,Georginio Wijnaldum
+732,Pass,59,17,96182,26,Successful,46.2,11.2,40.5,18.6,OpenPlay,243510.0,Naby Keita,Roberto Firmino
+733,Pass,59,21,243510,26,Successful,40.2,38.5,41.2,82.6,OpenPlay,115726.0,Andrew Robertson,Naby Keita
+734,Pass,59,24,115726,26,Successful,42.2,76.5,32.3,51.5,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+735,Pass,59,28,95408,26,Successful,33.0,50.7,46.4,46.4,OpenPlay,96182.0,Roberto Firmino,Virgil van Dijk
+736,Pass,59,29,96182,26,Successful,46.7,46.2,32.9,45.8,OpenPlay,95408.0,Virgil van Dijk,Roberto Firmino
+737,Pass,59,32,95408,26,Successful,32.9,42.1,75.9,32.2,OpenPlay,109915.0,Sadio Mané,Virgil van Dijk
+738,Pass,59,34,109915,26,Unsuccessful,76.2,36.7,74.1,49.5,OpenPlay,,,Sadio Mané
+739,Pass,59,56,102248,13,Successful,4.2,55.7,12.9,37.9,OpenPlay,125209.0,Mohamed Elneny,Emiliano Martínez
+740,Pass,59,59,125209,13,Successful,13.2,33.6,23.6,5.8,OpenPlay,69945.0,Cédric Soares,Mohamed Elneny
+741,Pass,60,1,69945,13,Successful,23.6,5.0,31.8,24.4,OpenPlay,33568.0,Georginio Wijnaldum,Cédric Soares
+742,Pass,60,4,33568,26,Successful,61.7,68.2,64.8,68.2,OpenPlay,96182.0,Roberto Firmino,Georginio Wijnaldum
+743,Pass,60,6,96182,26,Successful,67.2,58.3,75.4,47.6,OpenPlay,108226.0,Mohamed Salah,Roberto Firmino
+744,Pass,60,7,108226,26,Unsuccessful,74.5,48.5,83.3,39,OpenPlay,,,Mohamed Salah
+745,Pass,60,12,297403,13,Successful,24.1,64.4,41.6,93.5,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Kieran Tierney
+746,Pass,60,18,44120,13,Unsuccessful,62.6,84.9,77.2,36.2,OpenPlay,,,Pierre-Emerick Aubameyang
+747,Pass,60,21,115726,26,Successful,22.6,68.5,26,53.3,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+748,Pass,60,28,95408,26,Successful,43.5,54.0,40.4,31.2,OpenPlay,115916.0,Fabinho,Virgil van Dijk
+749,Pass,60,30,115916,26,Successful,40.4,31.2,49.4,31.2,OpenPlay,33568.0,Georginio Wijnaldum,Fabinho
+750,Pass,60,35,33568,26,Successful,54.9,29.7,58.3,3.4,OpenPlay,136451.0,Joseph Gomez,Georginio Wijnaldum
+751,Pass,60,37,136451,26,Successful,60.0,3.5,45.6,17.7,OpenPlay,115916.0,Fabinho,Joseph Gomez
+752,Pass,60,39,115916,26,Successful,46.3,24.7,45.5,54.3,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+753,Pass,60,41,95408,26,Successful,45.5,54.3,47.2,67.2,OpenPlay,243510.0,Naby Keita,Virgil van Dijk
+754,Pass,60,47,243510,26,Successful,56.0,70.2,58.6,60,OpenPlay,96182.0,Roberto Firmino,Naby Keita
+755,Pass,60,49,96182,26,Successful,59.2,64.6,57.6,79.1,OpenPlay,243510.0,Naby Keita,Roberto Firmino
+756,Pass,60,52,243510,26,Successful,57.1,73.6,53.4,34.7,OpenPlay,115916.0,Fabinho,Naby Keita
+757,Pass,60,56,115916,26,Successful,54.1,31.9,46.8,56.6,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+758,Pass,61,2,95408,26,Successful,59.0,69.3,75.6,92.5,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+759,Pass,61,4,115726,26,Successful,76.9,92.3,67.8,88,OpenPlay,243510.0,Naby Keita,Andrew Robertson
+760,Pass,61,6,243510,26,Successful,66.2,85.3,73.6,85.1,OpenPlay,262838.0,Takumi Minamino,Naby Keita
+761,Pass,61,8,262838,26,Successful,71.4,90.5,69.1,95.6,OpenPlay,115726.0,Andrew Robertson,Takumi Minamino
+762,Pass,61,10,115726,26,Successful,69.1,95.6,65,89,OpenPlay,243510.0,Naby Keita,Andrew Robertson
+763,Pass,61,12,243510,26,Successful,61.4,75.7,56.9,39.2,OpenPlay,115916.0,Fabinho,Naby Keita
+764,Pass,61,17,115916,26,Successful,59.0,38.9,60,60.6,OpenPlay,243510.0,Naby Keita,Fabinho
+765,Pass,61,21,243510,26,Successful,66.3,55.2,72.7,61.7,OpenPlay,96182.0,Roberto Firmino,Naby Keita
+766,Pass,61,21,96182,26,Unsuccessful,73.1,59.8,75.6,61,OpenPlay,,,Roberto Firmino
+767,Pass,61,23,96182,26,Successful,73.8,59.2,70.7,52,OpenPlay,243510.0,Naby Keita,Roberto Firmino
+768,Pass,61,25,243510,26,Successful,69.4,50.5,90.6,18.8,OpenPlay,102248.0,Emiliano Martínez,Naby Keita
+769,Pass,62,11,102248,13,Successful,4.4,53.6,57.6,75.6,OpenPlay,89401.0,Granit Xhaka,Emiliano Martínez
+770,Pass,62,15,89401,13,Unsuccessful,56.7,71.3,60.7,71.9,OpenPlay,,,Granit Xhaka
+771,Pass,62,16,255169,13,Unsuccessful,53.7,83.5,64.4,80.2,OpenPlay,,,Ainsley Maitland-Niles
+772,Pass,62,18,115916,26,Unsuccessful,33.9,19.0,54.7,0,OpenPlay,,,Fabinho
+773,Pass,62,26,297403,13,Successful,38.0,100.0,20.2,60.6,ThrowIn,102248.0,Emiliano Martínez,Kieran Tierney
+774,Pass,62,30,102248,13,Unsuccessful,18.5,56.9,34.6,11.5,OpenPlay,,,Emiliano Martínez
+775,Pass,62,47,69945,13,Successful,28.2,0.0,31.8,5.5,ThrowIn,367185.0,Bukayo Saka,Cédric Soares
+776,Pass,62,47,367185,13,Successful,33.9,7.5,29.5,3.1,OpenPlay,69945.0,Cédric Soares,Bukayo Saka
+777,Pass,62,48,69945,13,Successful,29.4,1.6,24.8,73.5,OpenPlay,297403.0,Kieran Tierney,Cédric Soares
+778,Pass,62,51,297403,13,Successful,24.8,73.5,34.8,93.2,OpenPlay,255169.0,Ainsley Maitland-Niles,Kieran Tierney
+779,Pass,62,56,255169,13,Successful,37.0,97.2,43.6,87.6,OpenPlay,89401.0,Granit Xhaka,Ainsley Maitland-Niles
+780,Pass,62,57,89401,13,Unsuccessful,43.6,87.6,81.1,94.2,OpenPlay,,,Granit Xhaka
+781,Pass,63,1,115916,26,Successful,21.9,4.4,32.5,4.6,OpenPlay,136451.0,Joseph Gomez,Fabinho
+782,Pass,63,3,136451,26,Successful,32.3,3.6,44.3,4.6,OpenPlay,109915.0,Sadio Mané,Joseph Gomez
+783,Pass,63,4,109915,26,Unsuccessful,44.2,3.4,36.6,18.4,OpenPlay,,,Sadio Mané
+784,Pass,63,15,33568,26,Successful,54.4,84.5,57.2,97.2,OpenPlay,115726.0,Andrew Robertson,Georginio Wijnaldum
+785,Pass,63,19,115726,26,Successful,58.4,95.2,50.7,88.8,OpenPlay,33568.0,Georginio Wijnaldum,Andrew Robertson
+786,Pass,63,21,33568,26,Successful,47.6,86.1,39.9,66.2,OpenPlay,95408.0,Virgil van Dijk,Georginio Wijnaldum
+787,Pass,63,25,95408,26,Successful,42.2,64.5,47.7,83.8,OpenPlay,33568.0,Georginio Wijnaldum,Virgil van Dijk
+788,Pass,63,28,33568,26,Successful,47.5,85.3,38.6,67.5,OpenPlay,95408.0,Virgil van Dijk,Georginio Wijnaldum
+789,Pass,63,31,95408,26,Unsuccessful,38.5,68.0,100,86.3,OpenPlay,,,Virgil van Dijk
+790,Pass,63,59,102248,13,Unsuccessful,4.3,47.6,61,14.5,OpenPlay,,,Emiliano Martínez
+791,Pass,64,3,95408,26,Successful,36.8,86.8,45.9,75.6,OpenPlay,33568.0,Georginio Wijnaldum,Virgil van Dijk
+792,Pass,64,7,33568,26,Unsuccessful,58.5,86.8,58.5,83.3,OpenPlay,,,Georginio Wijnaldum
+793,Pass,64,10,69945,13,Successful,42.7,12.2,31.2,6.9,OpenPlay,288795.0,Rob Holding,Cédric Soares
+794,Pass,64,12,288795,13,Unsuccessful,32.6,6.4,77.4,24.8,OpenPlay,,,Rob Holding
+795,Pass,64,17,114147,26,Successful,21.4,74.2,34.4,64.3,OpenPlay,243510.0,Naby Keita,Alisson
+796,Pass,64,24,243510,26,Successful,51.3,41.0,48.1,17.7,OpenPlay,136451.0,Joseph Gomez,Naby Keita
+797,Pass,64,27,136451,26,Successful,48.1,17.7,36.2,48.8,OpenPlay,115916.0,Fabinho,Joseph Gomez
+798,Pass,64,29,115916,26,Successful,36.1,49.9,48.1,61.5,OpenPlay,33568.0,Georginio Wijnaldum,Fabinho
+799,Pass,64,33,33568,26,Successful,52.7,66.6,56.2,93,OpenPlay,95408.0,Virgil van Dijk,Georginio Wijnaldum
+800,Pass,64,35,95408,26,Successful,56.2,93.0,63.9,97.1,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+801,Pass,64,36,115726,26,Successful,63.9,97.1,67.4,90.6,OpenPlay,262838.0,Takumi Minamino,Andrew Robertson
+802,Pass,64,37,262838,26,Successful,67.4,90.6,60.7,96.3,OpenPlay,115726.0,Andrew Robertson,Takumi Minamino
+803,Pass,64,39,115726,26,Successful,60.7,96.3,55.5,85.1,OpenPlay,33568.0,Georginio Wijnaldum,Andrew Robertson
+804,Pass,64,42,33568,26,Successful,56.2,78.5,54.6,45.8,OpenPlay,136451.0,Joseph Gomez,Georginio Wijnaldum
+805,Pass,64,45,136451,26,Successful,55.4,38.3,63.7,4,OpenPlay,109915.0,Sadio Mané,Joseph Gomez
+806,Pass,64,48,109915,26,Successful,63.5,2.8,69.1,14.7,OpenPlay,96182.0,Roberto Firmino,Sadio Mané
+807,Pass,64,50,96182,26,Unsuccessful,72.2,14.0,92.2,25,OpenPlay,,,Roberto Firmino
+808,Pass,64,53,255169,13,Successful,4.6,66.8,41.7,68.8,OpenPlay,345845.0,Eddie Nketiah,Ainsley Maitland-Niles
+809,Pass,64,56,345845,13,Unsuccessful,42.7,66.6,43.9,85.1,OpenPlay,,,Eddie Nketiah
+810,Pass,64,59,136451,26,Successful,57.1,16.2,60.3,41.5,OpenPlay,33568.0,Georginio Wijnaldum,Joseph Gomez
+811,Pass,65,1,33568,26,Successful,60.4,43.1,52.3,69.6,OpenPlay,95408.0,Virgil van Dijk,Georginio Wijnaldum
+812,Pass,65,5,95408,26,Successful,55.4,72.0,72.2,93.9,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+813,Pass,65,9,115726,26,Successful,73.1,89.0,66.5,76.3,OpenPlay,33568.0,Georginio Wijnaldum,Andrew Robertson
+814,Pass,65,10,33568,26,Successful,66.4,75.1,69,63.7,OpenPlay,243510.0,Naby Keita,Georginio Wijnaldum
+815,Pass,65,11,243510,26,Successful,69.0,63.7,66,73.9,OpenPlay,33568.0,Georginio Wijnaldum,Naby Keita
+816,Pass,65,13,33568,26,Successful,64.2,73.0,66.4,63.3,OpenPlay,243510.0,Naby Keita,Georginio Wijnaldum
+817,Pass,65,18,243510,26,Successful,79.8,71.5,75.6,88.6,OpenPlay,115726.0,Andrew Robertson,Naby Keita
+818,Pass,65,21,115726,26,Unsuccessful,79.6,89.2,90.7,60.6,OpenPlay,,,Andrew Robertson
+819,Pass,66,12,27586,13,Successful,23.7,39.7,28.3,32.5,OpenPlay,125209.0,Mohamed Elneny,David Luiz
+820,Pass,66,14,125209,13,Successful,28.6,32.3,39.5,39.5,OpenPlay,89401.0,Granit Xhaka,Mohamed Elneny
+821,Pass,66,16,89401,13,Unsuccessful,39.4,38.0,42.6,0,OpenPlay,,,Granit Xhaka
+822,Pass,66,22,115726,26,Successful,59.5,100.0,39.6,82.2,ThrowIn,95408.0,Virgil van Dijk,Andrew Robertson
+823,Pass,66,26,95408,26,Successful,35.9,77.1,37.2,43.1,OpenPlay,115916.0,Fabinho,Virgil van Dijk
+824,Pass,66,28,115916,26,Successful,38.6,41.0,47,43.9,OpenPlay,243510.0,Naby Keita,Fabinho
+825,Pass,66,31,243510,26,Successful,47.5,33.9,56.5,10.1,OpenPlay,136451.0,Joseph Gomez,Naby Keita
+826,Pass,66,34,136451,26,Successful,56.7,9.3,53.6,21.1,OpenPlay,243510.0,Naby Keita,Joseph Gomez
+827,Pass,66,34,243510,26,Unsuccessful,53.6,20.4,68.7,24.8,OpenPlay,,,Naby Keita
+828,Pass,66,35,297403,13,Unsuccessful,32.2,78.5,43.3,82.2,OpenPlay,,,Kieran Tierney
+829,Pass,66,38,136451,26,Successful,59.4,20.9,55.8,24.8,OpenPlay,243510.0,Naby Keita,Joseph Gomez
+830,Pass,66,39,243510,26,Successful,54.4,29.1,57.3,41.7,OpenPlay,33568.0,Georginio Wijnaldum,Naby Keita
+831,Pass,66,42,33568,26,Successful,61.7,50.1,68,96.4,OpenPlay,115726.0,Andrew Robertson,Georginio Wijnaldum
+832,Pass,66,45,115726,26,Successful,67.5,96.4,74.9,82.4,OpenPlay,262838.0,Takumi Minamino,Andrew Robertson
+833,Pass,66,50,262838,26,Successful,81.1,91.2,71.4,88.6,OpenPlay,33568.0,Georginio Wijnaldum,Takumi Minamino
+834,Pass,66,51,33568,26,Successful,68.9,81.0,57.7,46.6,OpenPlay,115916.0,Fabinho,Georginio Wijnaldum
+835,Pass,66,55,115916,26,Successful,60.1,42.1,62.4,22.1,OpenPlay,136451.0,Joseph Gomez,Fabinho
+836,Pass,66,57,136451,26,Successful,61.8,18.2,73,21.8,OpenPlay,108226.0,Mohamed Salah,Joseph Gomez
+837,Pass,67,1,108226,26,Unsuccessful,67.0,25.6,69.9,30.7,OpenPlay,,,Mohamed Salah
+838,Pass,67,3,255169,13,Unsuccessful,24.4,89.8,37.6,90.7,OpenPlay,,,Ainsley Maitland-Niles
+839,Pass,67,5,108226,26,Successful,62.5,11.0,57.5,26.2,OpenPlay,136451.0,Joseph Gomez,Mohamed Salah
+840,Pass,67,7,136451,26,Successful,56.3,21.7,47.4,34.2,OpenPlay,115916.0,Fabinho,Joseph Gomez
+841,Pass,67,9,115916,26,Successful,46.6,47.6,46.3,64.5,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+842,Pass,67,11,95408,26,Successful,47.7,66.0,52.8,87,OpenPlay,33568.0,Georginio Wijnaldum,Virgil van Dijk
+843,Pass,67,13,33568,26,Successful,54.4,88.8,66,94.4,OpenPlay,115726.0,Andrew Robertson,Georginio Wijnaldum
+844,Pass,67,14,115726,26,Unsuccessful,65.2,95.6,62.3,86.8,OpenPlay,,,Andrew Robertson
+845,Pass,67,16,367185,13,Successful,35.9,11.8,38.2,20.7,OpenPlay,243510.0,Naby Keita,Bukayo Saka
+846,Pass,67,20,243510,26,Successful,67.4,71.9,73.5,68,OpenPlay,96182.0,Roberto Firmino,Naby Keita
+847,Pass,67,22,96182,26,Successful,75.5,66.6,74.4,46.8,OpenPlay,102248.0,Emiliano Martínez,Roberto Firmino
+848,Pass,67,42,102248,13,Unsuccessful,9.5,39.4,46.3,28.5,OpenPlay,,,Emiliano Martínez
+849,Pass,67,46,95408,26,Successful,47.7,84.9,37.9,63.3,OpenPlay,115916.0,Fabinho,Virgil van Dijk
+850,Pass,67,48,115916,26,Successful,37.7,62.0,50.9,58.5,OpenPlay,243510.0,Naby Keita,Fabinho
+851,Pass,67,53,243510,26,Unsuccessful,61.0,58.8,67.1,57.7,OpenPlay,,,Naby Keita
+852,Pass,67,57,345845,13,Successful,45.4,56.3,57.3,83.3,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Eddie Nketiah
+853,Pass,68,4,44120,13,Successful,76.5,70.5,81.3,28.9,OpenPlay,367185.0,Bukayo Saka,Pierre-Emerick Aubameyang
+854,Pass,68,49,367185,13,Unsuccessful,99.6,0.5,97.3,50.1,CornerTaken,,,Bukayo Saka
+855,Pass,69,2,114147,26,Successful,8.5,40.6,12.5,64.1,OpenPlay,95408.0,Virgil van Dijk,Alisson
+856,Pass,69,7,95408,26,Successful,19.1,62.3,14.2,39,OpenPlay,115916.0,Fabinho,Virgil van Dijk
+857,Pass,69,9,115916,26,Successful,14.1,37.5,25.2,38.8,OpenPlay,243510.0,Naby Keita,Fabinho
+858,Pass,69,10,243510,26,Successful,24.9,38.2,12.5,37.1,OpenPlay,115916.0,Fabinho,Naby Keita
+859,Pass,69,14,115916,26,Successful,19.8,28.7,25.1,8.9,OpenPlay,136451.0,Joseph Gomez,Fabinho
+860,Pass,69,17,136451,26,Successful,25.9,8.5,21.1,27.7,OpenPlay,115916.0,Fabinho,Joseph Gomez
+861,Pass,69,21,115916,26,Successful,29.1,36.7,25.4,62.3,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+862,Pass,69,25,95408,26,Unsuccessful,32.0,44.5,75.4,77.9,OpenPlay,,,Virgil van Dijk
+863,Pass,70,7,115726,26,Unsuccessful,77.2,78.5,92.9,44.7,OpenPlay,,,Andrew Robertson
+864,Pass,70,40,115726,26,Unsuccessful,99.4,0.5,91.6,51.8,CornerTaken,,,Andrew Robertson
+865,Pass,70,44,243510,26,Successful,72.7,30.7,85.3,8.6,OpenPlay,115726.0,Andrew Robertson,Naby Keita
+866,Pass,70,49,115726,26,Successful,77.4,21.6,67.1,53.4,OpenPlay,136451.0,Joseph Gomez,Andrew Robertson
+867,Pass,70,52,136451,26,Successful,66.4,52.1,67.2,85.9,OpenPlay,262838.0,Takumi Minamino,Joseph Gomez
+868,Pass,70,56,262838,26,Successful,70.5,83.6,81.5,87.7,OpenPlay,109915.0,Sadio Mané,Takumi Minamino
+869,Pass,70,59,109915,26,Successful,81.3,86.9,89.2,73,OpenPlay,96182.0,Roberto Firmino,Sadio Mané
+870,Pass,71,2,96182,26,Unsuccessful,95.3,70.5,93.5,56.9,OpenPlay,,,Roberto Firmino
+871,Pass,71,10,136451,26,Successful,49.0,86.1,46.2,43.5,OpenPlay,115916.0,Fabinho,Joseph Gomez
+872,Pass,71,12,115916,26,Successful,47.4,37.7,61.3,20.4,OpenPlay,243510.0,Naby Keita,Fabinho
+873,Pass,71,15,243510,26,Unsuccessful,64.2,17.6,92.5,49.3,OpenPlay,,,Naby Keita
+874,Pass,71,28,102248,13,Successful,7.1,49.3,11.1,29.1,OpenPlay,288795.0,Rob Holding,Emiliano Martínez
+875,Pass,71,30,288795,13,Successful,10.6,27.7,3.6,67.4,OpenPlay,27586.0,David Luiz,Rob Holding
+876,Pass,71,33,27586,13,Successful,3.5,68.3,11.4,94.2,OpenPlay,297403.0,Kieran Tierney,David Luiz
+877,Pass,71,36,297403,13,Successful,11.2,95.4,40,90.1,OpenPlay,243510.0,Naby Keita,Kieran Tierney
+878,Pass,71,45,243510,26,Successful,66.2,17.6,69.9,30.7,OpenPlay,96182.0,Roberto Firmino,Naby Keita
+879,Pass,71,46,96182,26,Successful,70.7,29.1,63.5,42.1,OpenPlay,33568.0,Georginio Wijnaldum,Roberto Firmino
+880,Pass,71,48,33568,26,Successful,63.5,47.4,68.7,90.9,OpenPlay,115726.0,Andrew Robertson,Georginio Wijnaldum
+881,Pass,71,53,115726,26,Successful,72.8,91.3,62.4,72.1,OpenPlay,33568.0,Georginio Wijnaldum,Andrew Robertson
+882,Pass,71,55,33568,26,Successful,62.4,69.5,60.3,35.1,OpenPlay,115916.0,Fabinho,Georginio Wijnaldum
+883,Pass,72,0,115916,26,Successful,63.2,22.1,74.9,3.5,OpenPlay,136451.0,Joseph Gomez,Fabinho
+884,Pass,72,2,136451,26,Successful,75.3,2.9,73.3,18.2,OpenPlay,109915.0,Sadio Mané,Joseph Gomez
+885,Pass,72,5,109915,26,Successful,71.1,21.5,80.6,23.1,OpenPlay,108226.0,Mohamed Salah,Sadio Mané
+886,Pass,72,11,108226,26,Unsuccessful,76.6,43.7,80.1,49.9,OpenPlay,,,Mohamed Salah
+887,Pass,72,11,96182,26,Successful,80.9,52.4,85.2,50.5,OpenPlay,262838.0,Takumi Minamino,Roberto Firmino
+888,Pass,72,12,262838,26,Unsuccessful,86.3,49.9,88.2,59,OpenPlay,,,Takumi Minamino
+889,Pass,73,24,345845,13,Successful,49.9,50.3,26.8,50.1,OpenPlay,27586.0,David Luiz,Eddie Nketiah
+890,Pass,73,30,27586,13,Unsuccessful,30.9,41.0,72.4,60.8,OpenPlay,,,David Luiz
+891,Pass,73,33,115916,26,Unsuccessful,26.1,37.5,37.2,35.9,OpenPlay,,,Fabinho
+892,Pass,73,35,89401,13,Successful,61.5,64.7,55.1,78.1,OpenPlay,297403.0,Kieran Tierney,Granit Xhaka
+893,Pass,73,37,297403,13,Successful,54.3,78.1,65.5,93.4,OpenPlay,255169.0,Ainsley Maitland-Niles,Kieran Tierney
+894,Pass,73,41,255169,13,Successful,69.6,92.7,75,85.1,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Ainsley Maitland-Niles
+895,Pass,73,45,44120,13,Unsuccessful,72.8,82.2,75.9,76.7,OpenPlay,,,Pierre-Emerick Aubameyang
+896,Pass,73,46,33568,26,Successful,26.4,38.6,32.6,27.2,OpenPlay,109915.0,Sadio Mané,Georginio Wijnaldum
+897,Pass,73,51,109915,26,Successful,43.4,30.4,54.6,36.6,OpenPlay,108226.0,Mohamed Salah,Sadio Mané
+898,Pass,73,54,108226,26,Successful,54.4,30.3,65,18.6,OpenPlay,96182.0,Roberto Firmino,Mohamed Salah
+899,Pass,73,56,96182,26,Unsuccessful,69.1,27.2,71.1,30.3,OpenPlay,,,Roberto Firmino
+900,Pass,73,59,96182,26,Successful,67.4,41.9,74.4,58.1,OpenPlay,262838.0,Takumi Minamino,Roberto Firmino
+901,Pass,74,1,262838,26,Successful,75.8,63.7,82.2,86.1,OpenPlay,115726.0,Andrew Robertson,Takumi Minamino
+902,Pass,74,3,115726,26,Unsuccessful,83.1,84.5,96.3,45,OpenPlay,,,Andrew Robertson
+903,Pass,74,24,102248,13,Successful,9.7,50.3,13,25.2,OpenPlay,288795.0,Rob Holding,Emiliano Martínez
+904,Pass,74,25,288795,13,Successful,13.0,23.9,23.9,36.9,OpenPlay,89401.0,Granit Xhaka,Rob Holding
+905,Pass,74,27,89401,13,Successful,23.6,37.3,28.8,32,OpenPlay,125209.0,Mohamed Elneny,Granit Xhaka
+906,Pass,74,28,125209,13,Successful,28.8,32.0,32.1,50.7,OpenPlay,255169.0,Ainsley Maitland-Niles,Mohamed Elneny
+907,Pass,74,30,255169,13,Successful,32.1,50.7,25.6,42.2,OpenPlay,89401.0,Granit Xhaka,Ainsley Maitland-Niles
+908,Pass,74,33,89401,13,Successful,25.9,38.0,20.7,30.1,OpenPlay,288795.0,Rob Holding,Granit Xhaka
+909,Pass,74,35,288795,13,Successful,21.0,29.8,14.7,74,OpenPlay,27586.0,David Luiz,Rob Holding
+910,Pass,74,39,27586,13,Successful,13.5,74.4,26.7,74.7,OpenPlay,89401.0,Granit Xhaka,David Luiz
+911,Pass,74,42,89401,13,Successful,26.3,78.0,27.8,97.5,OpenPlay,297403.0,Kieran Tierney,Granit Xhaka
+912,Pass,74,43,297403,13,Unsuccessful,27.8,97.5,43,100,OpenPlay,,,Kieran Tierney
+913,Pass,74,57,136451,26,Successful,59.5,0.0,44.4,22.1,ThrowIn,115916.0,Fabinho,Joseph Gomez
+914,Pass,75,0,115916,26,Successful,44.4,22.1,37.6,44.3,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+915,Pass,75,3,95408,26,Successful,36.9,45.4,43.2,59.6,OpenPlay,33568.0,Georginio Wijnaldum,Virgil van Dijk
+916,Pass,75,5,33568,26,Successful,42.4,70.5,53,89.6,OpenPlay,262838.0,Takumi Minamino,Georginio Wijnaldum
+917,Pass,75,10,262838,26,Successful,57.8,90.5,55.5,65.8,OpenPlay,243510.0,Naby Keita,Takumi Minamino
+918,Pass,75,13,243510,26,Successful,59.3,75.4,62.8,95.9,OpenPlay,115726.0,Andrew Robertson,Naby Keita
+919,Pass,75,16,115726,26,Successful,63.1,95.3,56,88,OpenPlay,33568.0,Georginio Wijnaldum,Andrew Robertson
+920,Pass,75,18,33568,26,Successful,56.9,86.9,65.7,81.5,OpenPlay,262838.0,Takumi Minamino,Georginio Wijnaldum
+921,Pass,75,19,262838,26,Successful,65.7,81.5,58.1,83.6,OpenPlay,33568.0,Georginio Wijnaldum,Takumi Minamino
+922,Pass,75,23,33568,26,Successful,59.0,66.1,77.3,20,OpenPlay,136451.0,Joseph Gomez,Georginio Wijnaldum
+923,Pass,75,26,136451,26,Successful,77.3,20.0,93.1,24,OpenPlay,109915.0,Sadio Mané,Joseph Gomez
+924,Pass,75,33,109915,26,Unsuccessful,96.4,27.0,88.3,40.8,OpenPlay,,,Sadio Mané
+925,Pass,75,39,243510,26,Successful,75.9,50.3,69.9,55.5,OpenPlay,33568.0,Georginio Wijnaldum,Naby Keita
+926,Pass,75,39,33568,26,Successful,72.7,56.5,72.2,68.8,OpenPlay,115726.0,Andrew Robertson,Georginio Wijnaldum
+927,Pass,75,41,115726,26,Successful,71.4,70.5,77.1,66.2,OpenPlay,262838.0,Takumi Minamino,Andrew Robertson
+928,Pass,75,44,262838,26,Successful,70.5,78.9,80.1,79.3,OpenPlay,115726.0,Andrew Robertson,Takumi Minamino
+929,Pass,75,44,115726,26,Successful,79.6,79.8,79.2,76.3,OpenPlay,262838.0,Takumi Minamino,Andrew Robertson
+930,Pass,75,46,262838,26,Successful,79.5,74.2,86.6,70.3,OpenPlay,96182.0,Roberto Firmino,Takumi Minamino
+931,Pass,75,47,96182,26,Unsuccessful,86.5,70.9,87.8,60.8,OpenPlay,,,Roberto Firmino
+932,Pass,75,50,44120,13,Successful,21.7,62.9,28.8,40.6,OpenPlay,345845.0,Eddie Nketiah,Pierre-Emerick Aubameyang
+933,Pass,75,52,345845,13,Unsuccessful,28.8,38.0,34.2,0,OpenPlay,,,Eddie Nketiah
+934,Pass,76,3,115726,26,Successful,62.5,100.0,58.1,64.9,ThrowIn,243510.0,Naby Keita,Andrew Robertson
+935,Pass,76,7,243510,26,Successful,57.7,65.2,66.5,72.4,OpenPlay,96182.0,Roberto Firmino,Naby Keita
+936,Pass,76,11,96182,26,Successful,69.1,67.6,72.4,56.9,OpenPlay,262838.0,Takumi Minamino,Roberto Firmino
+937,Pass,76,15,262838,26,Successful,70.5,48.9,70.8,26,OpenPlay,136451.0,Joseph Gomez,Takumi Minamino
+938,Pass,76,17,136451,26,Successful,70.7,20.7,78.9,5.4,OpenPlay,109915.0,Sadio Mané,Joseph Gomez
+939,Pass,76,20,109915,26,Successful,78.5,6.7,87.9,29.2,OpenPlay,262838.0,Takumi Minamino,Sadio Mané
+940,Pass,76,25,262838,26,Successful,95.4,27.4,92.9,15,OpenPlay,136451.0,Joseph Gomez,Takumi Minamino
+941,Pass,76,27,136451,26,Successful,92.4,13.4,76.9,19.8,OpenPlay,108226.0,Mohamed Salah,Joseph Gomez
+942,Pass,76,31,108226,26,Successful,73.8,18.9,79.1,32.7,OpenPlay,96182.0,Roberto Firmino,Mohamed Salah
+943,Pass,76,35,96182,26,Unsuccessful,73.2,35.7,76.8,41.7,OpenPlay,,,Roberto Firmino
+944,Pass,76,38,95408,26,Successful,70.4,50.5,69.7,74,OpenPlay,33568.0,Georginio Wijnaldum,Virgil van Dijk
+945,Pass,76,40,33568,26,Successful,70.9,73.6,77.8,88.4,OpenPlay,115726.0,Andrew Robertson,Georginio Wijnaldum
+946,Pass,76,42,115726,26,Successful,76.5,93.1,67.4,74.2,OpenPlay,33568.0,Georginio Wijnaldum,Andrew Robertson
+947,Pass,76,44,33568,26,Successful,69.5,75.8,74.2,67.6,OpenPlay,108226.0,Mohamed Salah,Georginio Wijnaldum
+948,Pass,76,48,108226,26,Successful,70.9,69.1,62.5,74.4,OpenPlay,95408.0,Virgil van Dijk,Mohamed Salah
+949,Pass,76,48,95408,26,Successful,62.5,74.4,74,96.2,OpenPlay,115726.0,Andrew Robertson,Virgil van Dijk
+950,Pass,76,52,115726,26,Successful,74.9,96.0,77.1,82.7,OpenPlay,33568.0,Georginio Wijnaldum,Andrew Robertson
+951,Pass,76,54,33568,26,Successful,77.0,84.4,76,96.5,OpenPlay,115726.0,Andrew Robertson,Georginio Wijnaldum
+952,Pass,76,57,115726,26,Successful,75.7,96.5,64.1,83.6,OpenPlay,108226.0,Mohamed Salah,Andrew Robertson
+953,Pass,76,59,108226,26,Successful,62.8,69.4,56.4,46.7,OpenPlay,115916.0,Fabinho,Mohamed Salah
+954,Pass,77,3,115916,26,Successful,57.9,41.2,55.5,71.1,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+955,Pass,77,5,95408,26,Successful,56.3,69.3,62,79.3,OpenPlay,33568.0,Georginio Wijnaldum,Virgil van Dijk
+956,Pass,77,7,33568,26,Successful,62.3,81.2,71.5,96.4,OpenPlay,89401.0,Granit Xhaka,Georginio Wijnaldum
+957,Pass,77,13,89401,13,Successful,23.4,30.3,27.8,23.5,OpenPlay,367185.0,Bukayo Saka,Granit Xhaka
+958,Pass,77,15,367185,13,Successful,33.8,28.7,33.9,37.5,OpenPlay,89401.0,Granit Xhaka,Bukayo Saka
+959,Pass,77,20,89401,13,Successful,35.8,52.5,39.5,92.6,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Granit Xhaka
+960,Pass,77,24,44120,13,Successful,37.9,91.7,21.9,75.8,OpenPlay,297403.0,Kieran Tierney,Pierre-Emerick Aubameyang
+961,Pass,77,27,297403,13,Successful,21.9,74.9,19.1,62.3,OpenPlay,27586.0,David Luiz,Kieran Tierney
+962,Pass,77,31,27586,13,Successful,22.7,51.2,24.9,25.7,OpenPlay,288795.0,Rob Holding,David Luiz
+963,Pass,77,33,288795,13,Successful,24.9,25.3,34.2,26.8,OpenPlay,125209.0,Mohamed Elneny,Rob Holding
+964,Pass,77,34,125209,13,Successful,33.7,22.9,34.2,1.9,OpenPlay,69945.0,Cédric Soares,Mohamed Elneny
+965,Pass,77,36,69945,13,Successful,34.2,1.9,23.2,10.9,OpenPlay,288795.0,Rob Holding,Cédric Soares
+966,Pass,77,39,288795,13,Successful,24.1,12.1,18.8,50.7,OpenPlay,27586.0,David Luiz,Rob Holding
+967,Pass,77,48,27586,13,Successful,24.2,55.5,25.8,35.9,OpenPlay,288795.0,Rob Holding,David Luiz
+968,Pass,77,51,288795,13,Successful,30.0,30.7,36.6,29.8,OpenPlay,125209.0,Mohamed Elneny,Rob Holding
+969,Pass,77,53,125209,13,Successful,36.6,29.8,27.6,30.7,OpenPlay,288795.0,Rob Holding,Mohamed Elneny
+970,Pass,77,55,288795,13,Successful,29.5,33.8,22.8,61.1,OpenPlay,27586.0,David Luiz,Rob Holding
+971,Pass,78,1,27586,13,Successful,24.8,59.9,27.4,38.2,OpenPlay,288795.0,Rob Holding,David Luiz
+972,Pass,78,3,288795,13,Successful,30.2,33.2,76,13.7,OpenPlay,114147.0,Alisson,Rob Holding
+973,Pass,78,15,114147,26,Successful,14.5,55.1,25.4,49.1,OpenPlay,243510.0,Naby Keita,Alisson
+974,Pass,78,20,243510,26,Successful,31.8,65.1,57.7,97.9,OpenPlay,96182.0,Roberto Firmino,Naby Keita
+975,Pass,78,30,96182,26,Successful,71.4,85.9,67.2,62.5,OpenPlay,243510.0,Naby Keita,Roberto Firmino
+976,Pass,78,34,243510,26,Unsuccessful,71.4,57.3,85.3,70.5,OpenPlay,,,Naby Keita
+977,Pass,78,36,345845,13,Successful,23.8,40.4,20.4,36.9,OpenPlay,125209.0,Mohamed Elneny,Eddie Nketiah
+978,Pass,78,37,125209,13,Successful,21.1,32.6,27.4,26.2,OpenPlay,367185.0,Bukayo Saka,Mohamed Elneny
+979,Pass,78,38,367185,13,Successful,28.6,26.4,29.5,40.2,OpenPlay,345845.0,Eddie Nketiah,Bukayo Saka
+980,Pass,78,39,345845,13,Successful,30.5,38.2,25.5,36.3,OpenPlay,125209.0,Mohamed Elneny,Eddie Nketiah
+981,Pass,78,41,125209,13,Successful,27.5,36.5,26.9,52.2,OpenPlay,89401.0,Granit Xhaka,Mohamed Elneny
+982,Pass,78,43,89401,13,Successful,27.9,55.5,25.8,88.6,OpenPlay,255169.0,Ainsley Maitland-Niles,Granit Xhaka
+983,Pass,78,45,255169,13,Successful,23.2,91.5,26,76.1,OpenPlay,89401.0,Granit Xhaka,Ainsley Maitland-Niles
+984,Pass,78,47,89401,13,Unsuccessful,27.1,76.1,43.5,73.2,OpenPlay,,,Granit Xhaka
+985,Pass,78,50,136451,26,Successful,56.6,19.4,46.6,34.5,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+986,Pass,78,55,95408,26,Successful,59.3,40.7,65.4,36.1,OpenPlay,243510.0,Naby Keita,Virgil van Dijk
+987,Pass,78,56,243510,26,Successful,65.4,36.1,62.3,44.8,OpenPlay,95408.0,Virgil van Dijk,Naby Keita
+988,Pass,78,57,95408,26,Successful,62.3,44.8,65.3,38.3,OpenPlay,243510.0,Naby Keita,Virgil van Dijk
+989,Pass,78,59,243510,26,Successful,66.3,33.1,63.7,16.7,OpenPlay,136451.0,Joseph Gomez,Naby Keita
+990,Pass,79,1,136451,26,Successful,63.7,13.2,64.1,21.8,OpenPlay,243510.0,Naby Keita,Joseph Gomez
+991,Pass,79,2,243510,26,Successful,63.9,25.9,53.9,29.4,OpenPlay,115916.0,Fabinho,Naby Keita
+992,Pass,79,5,115916,26,Successful,53.9,31.0,52.5,59,OpenPlay,33568.0,Georginio Wijnaldum,Fabinho
+993,Pass,79,8,33568,26,Successful,55.0,62.5,62.5,62.7,OpenPlay,96182.0,Roberto Firmino,Georginio Wijnaldum
+994,Pass,79,9,96182,26,Successful,63.2,63.7,55.1,63.7,OpenPlay,33568.0,Georginio Wijnaldum,Roberto Firmino
+995,Pass,79,11,33568,26,Successful,53.8,63.7,53.8,35.5,OpenPlay,115916.0,Fabinho,Georginio Wijnaldum
+996,Pass,79,15,115916,26,Successful,54.1,33.9,56.8,10.9,OpenPlay,136451.0,Joseph Gomez,Fabinho
+997,Pass,79,18,136451,26,Successful,57.1,8.9,59.6,23.4,OpenPlay,243510.0,Naby Keita,Joseph Gomez
+998,Pass,79,21,243510,26,Successful,58.8,27.4,46.6,55.8,OpenPlay,95408.0,Virgil van Dijk,Naby Keita
+999,Pass,79,23,95408,26,Successful,46.6,55.8,53.6,67.9,OpenPlay,33568.0,Georginio Wijnaldum,Virgil van Dijk
+1000,Pass,79,27,33568,26,Successful,58.1,83.6,61.1,95.7,OpenPlay,115726.0,Andrew Robertson,Georginio Wijnaldum
+1001,Pass,79,29,115726,26,Successful,60.5,95.4,45.4,71.7,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+1002,Pass,79,32,95408,26,Successful,45.5,68.4,57.4,62,OpenPlay,262838.0,Takumi Minamino,Virgil van Dijk
+1003,Pass,79,34,262838,26,Successful,57.1,60.2,54.4,49,OpenPlay,243510.0,Naby Keita,Takumi Minamino
+1004,Pass,79,37,243510,26,Successful,54.3,45.2,57.7,16.1,OpenPlay,136451.0,Joseph Gomez,Naby Keita
+1005,Pass,79,40,136451,26,Successful,56.6,12.9,71.6,11,OpenPlay,108226.0,Mohamed Salah,Joseph Gomez
+1006,Pass,79,42,108226,26,Successful,68.4,5.2,56.9,15.3,OpenPlay,136451.0,Joseph Gomez,Mohamed Salah
+1007,Pass,79,44,136451,26,Successful,57.0,17.1,46.7,38.3,OpenPlay,115916.0,Fabinho,Joseph Gomez
+1008,Pass,79,47,115916,26,Successful,46.7,41.5,50.9,64.3,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+1009,Pass,79,50,95408,26,Successful,52.2,64.0,46.4,46.4,OpenPlay,115916.0,Fabinho,Virgil van Dijk
+1010,Pass,79,53,115916,26,Successful,45.6,43.7,45.9,23.5,OpenPlay,136451.0,Joseph Gomez,Fabinho
+1011,Pass,79,56,136451,26,Successful,47.2,28.0,44.5,44.3,OpenPlay,115916.0,Fabinho,Joseph Gomez
+1012,Pass,80,1,115916,26,Successful,47.5,46.6,49.3,80.5,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+1013,Pass,80,4,95408,26,Successful,49.2,77.0,47,57.2,OpenPlay,115916.0,Fabinho,Virgil van Dijk
+1014,Pass,80,10,115916,26,Successful,52.1,42.7,65.2,40.1,OpenPlay,108226.0,Mohamed Salah,Fabinho
+1015,Pass,80,11,108226,26,Successful,65.4,37.7,65.5,21.9,OpenPlay,96182.0,Roberto Firmino,Mohamed Salah
+1016,Pass,80,15,96182,26,Successful,67.2,19.8,70.5,5.2,OpenPlay,109915.0,Sadio Mané,Roberto Firmino
+1017,Pass,80,21,109915,26,Successful,79.4,10.7,75.6,29.8,OpenPlay,108226.0,Mohamed Salah,Sadio Mané
+1018,Pass,80,23,108226,26,Successful,76.8,30.5,93.9,76.5,OpenPlay,115726.0,Andrew Robertson,Mohamed Salah
+1019,Pass,80,27,115726,26,Unsuccessful,94.2,75.8,88.2,59.6,OpenPlay,,,Andrew Robertson
+1020,Pass,80,28,125209,13,Successful,11.4,39.8,13.5,32.4,OpenPlay,115726.0,Andrew Robertson,Mohamed Elneny
+1021,Pass,80,32,115726,26,Successful,97.6,83.5,89.7,44.3,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Andrew Robertson
+1022,Pass,80,42,44120,13,Unsuccessful,2.4,91.9,6,91.5,OpenPlay,,,Pierre-Emerick Aubameyang
+1023,Pass,82,20,110260,13,Unsuccessful,6.4,100.0,7.5,87.2,ThrowIn,,,Sead Kolasinac
+1024,Pass,82,22,27586,13,Unsuccessful,1.1,87.3,2.5,88.1,OpenPlay,,,David Luiz
+1025,Pass,82,58,102248,13,Unsuccessful,4.4,56.7,58.4,93.6,OpenPlay,,,Emiliano Martínez
+1026,Pass,83,33,114147,26,Successful,4.3,50.7,20.3,60,OpenPlay,33568.0,Georginio Wijnaldum,Alisson
+1027,Pass,83,36,33568,26,Successful,21.8,66.1,13.3,78.8,OpenPlay,95408.0,Virgil van Dijk,Georginio Wijnaldum
+1028,Pass,83,38,95408,26,Successful,13.1,77.9,7.5,54,OpenPlay,114147.0,Alisson,Virgil van Dijk
+1029,Pass,83,41,114147,26,Unsuccessful,8.8,52.4,56,94,OpenPlay,,,Alisson
+1030,Pass,83,44,69945,13,Successful,43.4,3.6,52.4,6,OpenPlay,288795.0,Rob Holding,Cédric Soares
+1031,Pass,83,51,288795,13,Successful,63.1,4.2,54.6,15.9,OpenPlay,125209.0,Mohamed Elneny,Rob Holding
+1032,Pass,83,54,125209,13,Successful,52.1,27.9,53.3,48.2,OpenPlay,89401.0,Granit Xhaka,Mohamed Elneny
+1033,Pass,83,55,89401,13,Successful,53.3,49.3,45.1,67.2,OpenPlay,110260.0,Sead Kolasinac,Granit Xhaka
+1034,Pass,83,58,110260,13,Successful,45.6,70.1,63,98,OpenPlay,136451.0,Joseph Gomez,Sead Kolasinac
+1035,Pass,84,18,136451,26,Successful,23.2,7.9,20.2,25,OpenPlay,115916.0,Fabinho,Joseph Gomez
+1036,Pass,84,20,115916,26,Successful,21.6,28.1,23.1,56.1,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+1037,Pass,84,24,95408,26,Unsuccessful,25.9,49.9,91.6,31.4,OpenPlay,,,Virgil van Dijk
+1038,Pass,84,37,102248,13,Successful,11.3,57.0,10.8,79.2,OpenPlay,27586.0,David Luiz,Emiliano Martínez
+1039,Pass,84,40,27586,13,Successful,10.8,78.0,3.4,54.2,OpenPlay,102248.0,Emiliano Martínez,David Luiz
+1040,Pass,84,43,102248,13,Successful,3.4,54.2,15,63.2,OpenPlay,89401.0,Granit Xhaka,Emiliano Martínez
+1041,Pass,84,44,89401,13,Successful,14.9,63.2,12.7,86.9,OpenPlay,27586.0,David Luiz,Granit Xhaka
+1042,Pass,84,49,27586,13,Unsuccessful,20.2,95.0,41.9,91.7,OpenPlay,,,David Luiz
+1043,Pass,85,7,110260,13,Successful,35.1,100.0,32.5,92.3,ThrowIn,89401.0,Granit Xhaka,Sead Kolasinac
+1044,Pass,85,8,89401,13,Unsuccessful,32.3,92.3,64.7,72.8,OpenPlay,,,Granit Xhaka
+1045,Pass,85,11,115916,26,Successful,34.4,27.6,40.6,15,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Fabinho
+1046,Pass,85,18,44120,13,Successful,66.7,94.0,90,93.1,OpenPlay,255169.0,Ainsley Maitland-Niles,Pierre-Emerick Aubameyang
+1047,Pass,85,23,255169,13,Successful,86.3,88.6,86.6,50.7,OpenPlay,342564.0,Reiss Nelson,Ainsley Maitland-Niles
+1048,Pass,85,25,342564,13,Successful,85.3,49.7,78.9,60.4,OpenPlay,342563.0,Joseph Willock,Reiss Nelson
+1049,Pass,85,27,342563,13,Successful,79.2,60.0,72.7,51.3,OpenPlay,125209.0,Mohamed Elneny,Joseph Willock
+1050,Pass,85,28,125209,13,Successful,72.8,47.2,77.6,25.8,OpenPlay,342564.0,Reiss Nelson,Mohamed Elneny
+1051,Pass,85,32,342564,13,Successful,77.5,22.5,77.6,28.3,OpenPlay,125209.0,Mohamed Elneny,Reiss Nelson
+1052,Pass,85,33,125209,13,Successful,77.5,27.8,77.8,12.1,OpenPlay,69945.0,Cédric Soares,Mohamed Elneny
+1053,Pass,85,35,69945,13,Successful,79.9,11.8,91.3,48.7,OpenPlay,114147.0,Alisson,Cédric Soares
+1054,Pass,86,3,114147,26,Successful,3.6,49.3,13.4,40,OpenPlay,115916.0,Fabinho,Alisson
+1055,Pass,86,4,115916,26,Successful,13.4,40.0,12.9,48.4,OpenPlay,114147.0,Alisson,Fabinho
+1056,Pass,86,7,114147,26,Unsuccessful,13.2,46.6,65.8,25.6,OpenPlay,,,Alisson
+1057,Pass,86,10,110260,13,Successful,36.8,77.3,46.4,68.6,OpenPlay,89401.0,Granit Xhaka,Sead Kolasinac
+1058,Pass,86,12,89401,13,Successful,47.2,68.4,44.6,81.8,OpenPlay,255169.0,Ainsley Maitland-Niles,Granit Xhaka
+1059,Pass,86,13,255169,13,Successful,45.9,79.8,51.7,68.4,OpenPlay,89401.0,Granit Xhaka,Ainsley Maitland-Niles
+1060,Pass,86,15,89401,13,Successful,52.0,67.6,61,67.6,OpenPlay,342563.0,Joseph Willock,Granit Xhaka
+1061,Pass,86,19,342563,13,Successful,63.8,69.3,76.9,69.7,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Joseph Willock
+1062,Pass,86,20,44120,13,Successful,77.5,71.1,79.5,84.3,OpenPlay,255169.0,Ainsley Maitland-Niles,Pierre-Emerick Aubameyang
+1063,Pass,86,23,255169,13,Unsuccessful,79.5,81.0,94.9,52.4,OpenPlay,,,Ainsley Maitland-Niles
+1064,Pass,86,29,114147,26,Successful,13.7,52.0,30.2,89,OpenPlay,69945.0,Cédric Soares,Alisson
+1065,Pass,86,33,69945,13,Successful,66.5,3.4,62.8,20.7,OpenPlay,125209.0,Mohamed Elneny,Cédric Soares
+1066,Pass,86,37,125209,13,Successful,71.4,26.4,78.8,7.9,OpenPlay,69945.0,Cédric Soares,Mohamed Elneny
+1067,Pass,86,40,69945,13,Unsuccessful,85.8,12.4,96.4,100,OpenPlay,,,Cédric Soares
+1068,Pass,86,48,136451,26,Successful,7.4,0.0,25.2,10.2,ThrowIn,355354.0,Curtis Jones,Joseph Gomez
+1069,Pass,86,50,355354,26,Unsuccessful,25.6,10.6,36.8,22.3,OpenPlay,,,Curtis Jones
+1070,Pass,86,52,110260,13,Successful,63.7,77.1,65.5,65.1,OpenPlay,125209.0,Mohamed Elneny,Sead Kolasinac
+1071,Pass,86,53,125209,13,Successful,63.5,66.0,70.2,64.1,OpenPlay,342563.0,Joseph Willock,Mohamed Elneny
+1072,Pass,86,55,342563,13,Successful,69.7,66.2,69.5,73.4,OpenPlay,89401.0,Granit Xhaka,Joseph Willock
+1073,Pass,86,57,89401,13,Successful,72.5,78.7,73.6,93.8,OpenPlay,255169.0,Ainsley Maitland-Niles,Granit Xhaka
+1074,Pass,87,1,255169,13,Unsuccessful,76.1,87.4,79.6,70.1,OpenPlay,,,Ainsley Maitland-Niles
+1075,Pass,87,2,115916,26,Successful,20.5,30.7,33.6,31.8,OpenPlay,109915.0,Sadio Mané,Fabinho
+1076,Pass,87,3,109915,26,Unsuccessful,34.0,32.0,34.6,20.4,OpenPlay,,,Sadio Mané
+1077,Pass,87,7,110260,13,Successful,56.7,85.1,62.4,85.1,OpenPlay,27586.0,David Luiz,Sead Kolasinac
+1078,Pass,87,58,27586,13,Successful,55.1,82.4,89.6,87,OpenPlay,110260.0,Sead Kolasinac,David Luiz
+1079,Pass,88,2,110260,13,Unsuccessful,99.0,83.5,95.9,63.9,OpenPlay,,,Sead Kolasinac
+1080,Pass,88,3,115916,26,Successful,4.1,35.1,13,16.1,OpenPlay,355354.0,Curtis Jones,Fabinho
+1081,Pass,88,7,355354,26,Unsuccessful,22.6,10.3,85.3,44.2,OpenPlay,,,Curtis Jones
+1082,Pass,88,14,102248,13,Successful,16.1,60.3,28.8,43,OpenPlay,125209.0,Mohamed Elneny,Emiliano Martínez
+1083,Pass,88,17,125209,13,Successful,30.0,44.5,30.7,77.6,OpenPlay,255169.0,Ainsley Maitland-Niles,Mohamed Elneny
+1084,Pass,88,21,255169,13,Successful,35.9,80.7,47.9,79.4,OpenPlay,110260.0,Sead Kolasinac,Ainsley Maitland-Niles
+1085,Pass,88,22,110260,13,Successful,47.9,79.3,41.7,76.7,OpenPlay,342563.0,Joseph Willock,Sead Kolasinac
+1086,Pass,88,24,342563,13,Successful,41.6,69.0,37.3,56.7,OpenPlay,125209.0,Mohamed Elneny,Joseph Willock
+1087,Pass,88,27,125209,13,Successful,44.3,65.5,40,89,OpenPlay,255169.0,Ainsley Maitland-Niles,Mohamed Elneny
+1088,Pass,88,29,255169,13,Successful,40.7,88.8,53.8,96,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Ainsley Maitland-Niles
+1089,Pass,88,32,44120,13,Successful,54.3,96.6,88.5,88,OpenPlay,342563.0,Joseph Willock,Pierre-Emerick Aubameyang
+1090,Pass,88,40,342563,13,Successful,87.5,81.8,79.6,69.3,OpenPlay,110260.0,Sead Kolasinac,Joseph Willock
+1091,Pass,88,46,110260,13,Successful,70.5,77.9,65.7,68.2,OpenPlay,125209.0,Mohamed Elneny,Sead Kolasinac
+1092,Pass,88,47,125209,13,Successful,67.0,70.7,98.2,86.6,OpenPlay,342563.0,Joseph Willock,Mohamed Elneny
+1093,Pass,88,53,342563,13,Successful,96.3,83.7,96.6,58.3,OpenPlay,114147.0,Alisson,Joseph Willock
+1094,Pass,89,22,114147,26,Unsuccessful,4.3,50.9,58,83.6,OpenPlay,,,Alisson
+1095,Pass,89,25,69945,13,Unsuccessful,38.6,13.2,45.6,32.6,OpenPlay,,,Cédric Soares
+1096,Pass,89,28,125209,13,Successful,42.7,26.0,54.3,43.3,OpenPlay,342563.0,Joseph Willock,Mohamed Elneny
+1097,Pass,89,33,342563,13,Successful,61.8,41.3,61.3,56.7,OpenPlay,89401.0,Granit Xhaka,Joseph Willock
+1098,Pass,89,35,89401,13,Successful,63.6,64.2,70,83,OpenPlay,44120.0,Pierre-Emerick Aubameyang,Granit Xhaka
+1099,Pass,89,40,44120,13,Successful,74.0,74.3,68.7,68.1,OpenPlay,89401.0,Granit Xhaka,Pierre-Emerick Aubameyang
+1100,Pass,89,42,89401,13,Successful,67.9,67.7,65.6,49,OpenPlay,125209.0,Mohamed Elneny,Granit Xhaka
+1101,Pass,89,42,125209,13,Successful,65.6,49.0,64.7,59.9,OpenPlay,89401.0,Granit Xhaka,Mohamed Elneny
+1102,Pass,89,44,89401,13,Successful,64.4,61.4,48.1,44.2,OpenPlay,27586.0,David Luiz,Granit Xhaka
+1103,Pass,89,48,27586,13,Successful,47.1,41.2,42,21.1,OpenPlay,288795.0,Rob Holding,David Luiz
+1104,Pass,89,50,288795,13,Successful,42.0,21.1,53.6,31.9,OpenPlay,125209.0,Mohamed Elneny,Rob Holding
+1105,Pass,89,51,125209,13,Successful,52.3,31.6,35.8,40.8,OpenPlay,27586.0,David Luiz,Mohamed Elneny
+1106,Pass,89,58,27586,13,Unsuccessful,41.5,75.6,69.7,80.6,OpenPlay,,,David Luiz
+1107,Pass,90,0,136451,26,Successful,27.2,19.8,30.8,27.9,OpenPlay,115916.0,Fabinho,Joseph Gomez
+1108,Pass,90,3,115916,26,Successful,29.8,22.1,39.7,8.1,OpenPlay,355354.0,Curtis Jones,Fabinho
+1109,Pass,90,6,355354,26,Successful,42.0,7.7,42.3,19.2,OpenPlay,243510.0,Naby Keita,Curtis Jones
+1110,Pass,90,8,243510,26,Successful,41.7,18.2,61.4,7.3,OpenPlay,355354.0,Curtis Jones,Naby Keita
+1111,Pass,90,14,355354,26,Successful,74.4,13.7,74.1,22.5,OpenPlay,109915.0,Sadio Mané,Curtis Jones
+1112,Pass,90,16,109915,26,Successful,71.8,20.9,95.4,16.3,OpenPlay,355354.0,Curtis Jones,Sadio Mané
+1113,Pass,90,20,355354,26,Successful,94.3,21.1,81.8,29.5,OpenPlay,108226.0,Mohamed Salah,Curtis Jones
+1114,Pass,90,22,108226,26,Successful,79.3,33.6,74.1,50.9,OpenPlay,33568.0,Georginio Wijnaldum,Mohamed Salah
+1115,Pass,90,24,33568,26,Successful,74.4,50.9,64.1,60,OpenPlay,95408.0,Virgil van Dijk,Georginio Wijnaldum
+1116,Pass,90,29,95408,26,Successful,66.5,55.0,68.4,40.2,OpenPlay,243510.0,Naby Keita,Virgil van Dijk
+1117,Pass,90,31,243510,26,Successful,68.2,40.6,68.1,22.1,OpenPlay,136451.0,Joseph Gomez,Naby Keita
+1118,Pass,90,34,136451,26,Successful,69.5,16.7,78.2,9.3,OpenPlay,355354.0,Curtis Jones,Joseph Gomez
+1119,Pass,90,38,355354,26,Successful,76.8,17.8,76.9,27,OpenPlay,109915.0,Sadio Mané,Curtis Jones
+1120,Pass,90,40,109915,26,Successful,74.3,20.4,82.1,5.2,OpenPlay,136451.0,Joseph Gomez,Sadio Mané
+1121,Pass,90,42,136451,26,Successful,84.6,4.7,80.3,14,OpenPlay,109915.0,Sadio Mané,Joseph Gomez
+1122,Pass,90,44,109915,26,Unsuccessful,79.2,14.9,93.2,57.7,OpenPlay,,,Sadio Mané
+1123,Pass,91,39,102248,13,Unsuccessful,11.4,42.9,67.4,7.5,OpenPlay,,,Emiliano Martínez
+1124,Pass,91,43,115726,26,Successful,30.9,92.7,37.2,84.9,OpenPlay,243510.0,Naby Keita,Andrew Robertson
+1125,Pass,91,45,243510,26,Unsuccessful,36.5,79.8,65.7,69.7,OpenPlay,,,Naby Keita
+1126,Pass,91,48,27586,13,Successful,35.5,29.5,31.1,9.9,OpenPlay,288795.0,Rob Holding,David Luiz
+1127,Pass,91,51,288795,13,Unsuccessful,30.8,6.4,35.1,6.4,OpenPlay,,,Rob Holding
+1128,Pass,92,0,109915,26,Successful,71.5,100.0,55.4,90.1,ThrowIn,95408.0,Virgil van Dijk,Sadio Mané
+1129,Pass,92,4,95408,26,Successful,55.4,87.4,51.3,58.3,OpenPlay,115916.0,Fabinho,Virgil van Dijk
+1130,Pass,92,7,115916,26,Successful,53.0,49.5,50.7,33,OpenPlay,136451.0,Joseph Gomez,Fabinho
+1131,Pass,92,10,136451,26,Successful,51.4,31.0,45.6,55.8,OpenPlay,115916.0,Fabinho,Joseph Gomez
+1132,Pass,92,12,115916,26,Successful,45.6,55.8,47.8,81.2,OpenPlay,95408.0,Virgil van Dijk,Fabinho
+1133,Pass,92,14,95408,26,Successful,50.4,79.3,45.6,52.6,OpenPlay,115916.0,Fabinho,Virgil van Dijk
+1134,Pass,92,16,115916,26,Successful,44.7,50.7,44.6,32,OpenPlay,136451.0,Joseph Gomez,Fabinho
+1135,Pass,92,20,136451,26,Successful,47.4,33.2,47.7,78.3,OpenPlay,95408.0,Virgil van Dijk,Joseph Gomez
+1136,Pass,92,26,95408,26,Successful,55.4,76.1,46.8,53.6,OpenPlay,115916.0,Fabinho,Virgil van Dijk
+1137,Pass,92,30,115916,26,Successful,52.6,54.2,64.7,95.4,OpenPlay,115726.0,Andrew Robertson,Fabinho
+1138,Pass,92,34,115726,26,Successful,64.2,97.1,57.7,85.7,OpenPlay,95408.0,Virgil van Dijk,Andrew Robertson
+1139,Pass,92,37,95408,26,Successful,57.0,81.4,86.5,92.1,OpenPlay,69945.0,Cédric Soares,Virgil van Dijk
+1140,Pass,92,42,69945,13,Unsuccessful,2.3,12.4,28.5,0,OpenPlay,,,Cédric Soares
+1141,Pass,92,51,109915,26,Successful,69.4,100.0,59.1,94.8,ThrowIn,95408.0,Virgil van Dijk,Sadio Mané
+1142,Pass,92,55,95408,26,Successful,58.7,90.2,55.8,68.8,OpenPlay,,,Virgil van Dijk

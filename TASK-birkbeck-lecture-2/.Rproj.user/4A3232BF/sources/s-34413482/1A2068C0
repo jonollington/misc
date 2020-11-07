@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588097552119.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1A2068C0",
+    "lastKnownWriteTime" : 1588100832,
+    "last_content_update" : 1588100832,
+    "path" : "~/Documents/osa-jw-birkbeck-course-2020/TASK-birkbeck-lecture-2/scripts/task-3-add-p90s-and-filter.R",
+    "project_path" : "scripts/task-3-add-p90s-and-filter.R",
+    "properties" : {
+        "cursorPosition" : "24,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
